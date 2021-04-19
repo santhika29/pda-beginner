@@ -1,0 +1,3001 @@
+ID,Country,Salary,YearsCodedJob,OpenSource,Hobby,CompanySizeNumber,Remote,CareerSatisfaction
+1,United Kingdom,100000,20,0,1,5000,Remote,8
+2,United States,130000,20,1,1,1000,Remote,9
+3,United States,175000,16,0,1,10000,Not remote,7
+4,Germany,64516.1290322581,4,0,0,1000,Not remote,9
+5,India,6636.32359418588,1,0,1,5000,Not remote,5
+6,United States,65000,1,0,1,20,Not remote,8
+7,United States,110000,13,0,1,20,Not remote,7
+8,Germany,53763.4408602151,4,1,0,5000,Not remote,7
+9,United States,109400,7,1,1,20,Not remote,8
+10,Germany,83870.9677419355,17,1,1,20,Not remote,9
+11,United States,51000,1,0,0,20,Not remote,10
+12,United Kingdom,32500,1,1,0,10,Not remote,9
+13,United Kingdom,30000,1,0,1,20,Not remote,5
+14,United States,90000,10,1,0,10,Not remote,8
+15,United States,115000,4,0,1,10000,Not remote,7
+16,United States,93000,9,0,0,500,Not remote,7
+17,United States,92500,14,1,1,100,Not remote,8
+18,United Kingdom,32500,2,0,1,10,Not remote,8
+19,United Kingdom,43750,1,1,1,1,Not remote,5
+20,United Kingdom,113750,20,1,1,20,Not remote,9
+21,United States,80000,5,0,0,500,Not remote,7
+22,United States,100000,14,0,1,20,Not remote,7
+23,United States,120000,4,0,1,20,Not remote,10
+24,United Kingdom,131250,14,0,0,20,Not remote,10
+25,India,6606.95933049479,1,1,1,10000,Not remote,8
+26,Germany,10752.688172043,1,0,1,10,Not remote,8
+27,Canada,87121.2121212121,10,0,0,20,Not remote,6
+28,Canada,54545.4545454545,8,0,0,1000,Not remote,10
+29,United States,50000,15,1,1,1,Remote,10
+30,United States,50000,2,1,1,10,Not remote,4
+31,United States,185000,20,1,0,100,Not remote,10
+32,United States,160000,11,1,1,500,Remote,7
+33,United States,63000,6,0,1,20,Not remote,8
+34,United States,67000,6,0,1,1000,Not remote,8
+35,United States,103000,15,1,1,500,Remote,8
+36,United States,65000,2,0,1,5000,Not remote,8
+37,United Kingdom,63750,17,0,1,500,Not remote,5
+38,United States,115000,8,1,0,20,Remote,6
+39,United States,170000,18,0,1,10000,Remote,3
+40,Canada,81060.6060606061,17,1,1,1000,Not remote,8
+41,United Kingdom,77500,10,0,1,100,Not remote,6
+42,United States,97000,9,0,1,100,Remote,5
+43,United States,120000,7,1,1,100,Remote,10
+44,Germany,59139.7849462366,5,0,0,100,Not remote,7
+45,United Kingdom,75000,8,1,1,500,Not remote,9
+46,Germany,53763.4408602151,5,0,1,20,Not remote,7
+47,United States,110000,4,1,1,10000,Remote,7
+48,United States,85000,2,1,1,20,Not remote,9
+49,Canada,38484.8484848485,2,0,1,500,Not remote,6
+50,United States,165000,8,0,1,10000,Not remote,9
+51,United States,100000,5,0,1,1,Not remote,7
+52,United States,61000,7,0,0,1000,Not remote,7
+53,United States,150000,20,1,1,1000,Not remote,8
+54,Germany,47311.8279569892,2,0,1,100,Not remote,8
+55,United States,110000,20,0,0,10000,Not remote,8
+56,United States,88000,1,0,1,20,Not remote,2
+57,Germany,40000,3,1,1,20,Not remote,7
+58,United Kingdom,150000,17,1,1,1000,Not remote,8
+59,United States,137500,8,1,1,10,Not remote,8
+60,United States,90000,13,0,1,500,Not remote,8
+61,India,5652.62076053443,2,0,0,10000,Not remote,7
+62,United Kingdom,62500,14,0,1,1,Remote,7
+63,United States,110000,17,0,1,5000,Not remote,7
+64,United States,82000,3,1,0,10000,Not remote,10
+65,India,7752.16561444722,2,1,1,20,Not remote,10
+66,United States,104000,3,0,1,10000,Not remote,6
+67,Canada,37878.7878787879,4,0,0,20,Not remote,8
+68,United States,52500,3,1,1,500,Not remote,7
+69,United States,100501,15,0,1,500,Not remote,0
+70,United States,93000,8,0,1,20,Remote,5
+71,United States,90000,9,1,1,1000,Not remote,4
+72,Canada,53030.303030303,7,0,0,10,Not remote,5
+73,Canada,99478.7878787879,20,0,0,10000,Not remote,7
+74,United States,75000,1,0,0,20,Not remote,8
+75,United States,95000,7,0,0,20,Not remote,7
+76,United States,73200,10,0,1,10,Remote,8
+77,United States,140000,15,0,1,10000,Not remote,7
+78,United States,86000,20,0,1,1,Not remote,8
+79,India,11745.7054764352,5,1,1,1000,Not remote,8
+80,United States,90000,2,0,0,20,Not remote,7
+81,United States,160000,10,1,1,20,Not remote,8
+82,United Kingdom,32000,3,0,1,100,Not remote,7
+83,Germany,35483.8709677419,2,1,1,20,Not remote,9
+84,United States,60000,3,0,0,100,Not remote,5
+85,United States,106400,19,0,1,1000,Remote,6
+86,India,9396.56438114814,4,0,1,10000,Not remote,8
+87,United States,135000,7,0,1,500,Not remote,9
+88,United States,77000,7,0,1,20,Not remote,4
+89,United States,105000,2,0,1,5000,Not remote,9
+90,United States,62000,6,0,1,100,Not remote,8
+91,United States,150000,18,1,1,5000,Not remote,9
+92,United States,65000,5,0,0,1000,Not remote,9
+93,United States,115000,20,1,1,100,Remote,9
+94,Canada,40909.0909090909,5,0,1,100,Not remote,8
+95,United States,125000,7,1,1,10,Remote,9
+96,United States,95000,20,0,1,20,Not remote,9
+97,United States,88000,8,1,1,20,Remote,8
+98,United States,117250,20,1,1,20,Not remote,8
+99,United States,155000,12,1,1,100,Not remote,7
+100,Canada,63636.3636363636,5,0,0,10,Not remote,5
+101,United States,95000,8,1,1,20,Not remote,5
+102,United States,85000,12,1,1,10,Not remote,8
+103,United States,62000,4,0,0,1,Not remote,8
+104,United States,160000,19,0,1,20,Not remote,7
+105,United States,93000,12,0,0,20,Not remote,8
+106,United States,95000,3,1,0,100,Not remote,7
+107,Canada,49242.4242424242,4,1,1,100,Not remote,8
+108,United States,100000,20,1,1,10000,Not remote,8
+109,United States,107000,13,0,1,10000,Not remote,7
+110,India,2114.22698575833,2,0,1,10,Not remote,9
+111,Germany,35483.8709677419,3,0,1,1000,Not remote,9
+112,India,11011.598884158,2,1,1,10000,Not remote,8
+113,United States,116000,9,0,1,10000,Not remote,9
+114,Germany,49677.4193548387,4,0,1,1000,Not remote,5
+115,United States,72000,3,0,1,10000,Not remote,7
+116,United States,178000,16,0,0,10000,Remote,7
+117,United States,111000,8,0,1,10000,Not remote,7
+118,Germany,63440.8602150538,6,0,1,20,Remote,9
+119,United States,90000,1,0,1,1000,Not remote,8
+120,United States,90000,5,0,1,1000,Not remote,10
+121,United States,100000,13,0,0,20,Not remote,8
+122,Canada,90909.0909090909,20,0,1,100,Not remote,7
+123,United States,94000,5,1,0,10000,Not remote,9
+124,United States,90000,19,1,1,100,Not remote,8
+125,United States,150000,9,1,1,500,Not remote,10
+126,United Kingdom,60000,7,0,1,10,Not remote,8
+127,Canada,41893.9393939394,3,0,1,20,Not remote,8
+128,United States,135000,9,1,1,100,Not remote,8
+129,United States,143000,5,1,1,100,Not remote,5
+130,United States,143000,7,1,1,100,Not remote,9
+131,Canada,83333.3333333333,14,0,1,1000,Not remote,8
+132,Germany,26881.7204301075,8,0,0,10,Not remote,5
+133,United States,66000,4,0,1,5000,Not remote,8
+134,United States,133000,5,0,1,10000,Not remote,10
+135,Canada,63636.3636363636,4,1,1,100,Not remote,8
+136,Germany,64516.1290322581,16,0,1,100,Not remote,8
+137,United Kingdom,43350,4,0,0,20,Not remote,3
+138,United States,150000,6,0,1,100,Not remote,9
+139,United States,90000,4,0,1,20,Not remote,8
+140,United States,147000,20,0,1,10,Not remote,9
+141,Canada,37878.7878787879,3,1,1,10,Not remote,7
+142,Canada,31818.1818181818,1,0,1,10,Not remote,4
+143,United States,160000,20,0,1,20,Not remote,6
+144,United States,97000,17,0,1,100,Not remote,9
+145,United States,95000,4,0,1,20,Not remote,10
+146,United States,54000,1,0,1,5000,Not remote,10
+147,United States,119000,8,0,1,10,Remote,10
+148,United States,135000,5,0,1,10000,Not remote,7
+149,United States,82000,3,0,1,100,Not remote,10
+150,United States,47000,1,0,1,10000,Not remote,9
+151,United States,133000,20,1,1,100,Remote,8
+152,United States,40000,1,0,0,500,Not remote,8
+153,United States,84000,15,1,1,20,Not remote,8
+154,United Kingdom,87500,12,0,1,20,Not remote,6
+155,United States,115000,4,1,0,10,Not remote,8
+156,Germany,69892.4731182796,15,0,0,10000,Not remote,10
+157,United States,85000,12,0,1,10000,Not remote,7
+158,United States,170000,20,0,1,1000,Not remote,10
+159,United States,150000,20,1,1,500,Not remote,9
+160,United States,130000,4,0,1,100,Not remote,10
+161,United States,65000,3,0,1,10000,Not remote,4
+162,Germany,77419.3548387097,20,1,0,100,Not remote,8
+163,United States,135000,13,0,1,100,Not remote,9
+164,Canada,58522.7272727273,6,1,1,100,Not remote,9
+165,United States,174000,8,0,1,100,Not remote,9
+166,United States,125000,9,0,1,20,Not remote,8
+167,United States,139000,11,1,1,10,Not remote,8
+168,United States,40000,1,0,1,20,Not remote,9
+169,United States,78000,5,0,0,500,Not remote,7
+170,United States,95000,3,1,1,20,Not remote,7
+171,United States,80000,13,0,1,100,Not remote,8
+172,United States,73736,16,0,1,20,Not remote,5
+173,United Kingdom,59375,8,0,0,20,Not remote,8
+174,United States,130000,7,1,0,10000,Not remote,8
+175,United States,110000,14,0,1,100,Remote,10
+176,India,16150.3450300984,3,0,0,1,Not remote,7
+177,United States,145000,20,1,1,10000,Not remote,8
+178,United Kingdom,51250,20,0,0,20,Not remote,6
+179,United Kingdom,55000,1,1,1,100,Not remote,0
+180,United States,62000,2,0,1,1,Not remote,10
+181,United Kingdom,156250,20,0,1,10000,Not remote,6
+182,United States,150000,12,1,1,20,Not remote,8
+183,Canada,43939.3939393939,20,0,1,20,Not remote,8
+184,United States,91000,11,0,1,500,Not remote,6
+185,United States,59000,3,0,0,500,Not remote,6
+186,United States,75000,4,1,1,1000,Not remote,8
+187,Canada,58333.3333333333,6,1,1,100,Not remote,7
+188,Canada,75757.5757575758,2,0,1,20,Not remote,8
+189,United States,130000,12,0,1,10,Not remote,8
+190,United Kingdom,63750,8,1,0,100,Not remote,7
+191,United Kingdom,75000,9,1,1,100,Not remote,8
+192,Germany,54838.7096774193,16,0,1,1,Not remote,6
+193,United States,160000,18,1,0,20,Not remote,9
+194,United States,150000,10,1,1,10000,Not remote,8
+195,United Kingdom,46875,3,0,1,100,Not remote,9
+196,United States,85000,9,1,1,1,Not remote,8
+197,United States,95000,20,1,1,10000,Not remote,7
+198,United Kingdom,52500,7,1,1,500,Not remote,7
+199,United States,130000,20,0,1,20,Remote,9
+200,United States,130000,20,1,1,5000,Not remote,9
+201,United States,64000,3,0,0,10,Not remote,8
+202,United States,72500,1,1,0,20,Not remote,10
+203,United States,125000,7,0,1,10000,Not remote,8
+204,United Kingdom,54375,15,1,1,20,Remote,6
+205,United States,30000,3,1,1,500,Not remote,10
+206,Germany,45161.2903225806,2,0,1,10,Not remote,8
+207,Canada,43181.8181818182,3,0,1,1000,Not remote,8
+208,United States,104200,12,0,1,10000,Not remote,9
+209,United Kingdom,51250,5,0,0,10000,Not remote,10
+210,Canada,50000,10,0,1,20,Not remote,6
+211,United States,150000,10,1,1,100,Not remote,9
+212,United States,109000,1,0,1,10000,Not remote,10
+213,United States,76000,7,0,1,10000,Not remote,8
+214,United States,42000,13,1,1,5000,Not remote,8
+215,Germany,64516.1290322581,16,0,1,10000,Not remote,8
+216,United States,85000,2,0,1,10,Not remote,8
+217,United States,160000,20,0,1,1000,Not remote,8
+218,United States,96000,9,1,1,10000,Not remote,8
+219,United Kingdom,56250,7,0,1,100,Not remote,8
+220,United States,80000,2,1,1,10000,Not remote,7
+221,United States,82500,2,0,1,100,Not remote,9
+222,United Kingdom,100000,20,1,1,1,Not remote,9
+223,United States,115000,11,1,1,1,Remote,8
+224,United States,65000,5,0,0,100,Not remote,4
+225,United States,105000,9,0,1,1000,Not remote,10
+226,United Kingdom,52500,9,0,1,20,Not remote,8
+227,United States,64000,6,0,1,1000,Not remote,8
+228,United Kingdom,45000,11,1,1,100,Not remote,8
+229,Canada,54545.4545454545,10,0,0,20,Not remote,9
+230,United States,131000,9,1,1,100,Remote,10
+231,United Kingdom,76250,9,0,0,10000,Not remote,8
+232,Germany,60215.0537634409,19,0,1,500,Remote,7
+233,United States,122000,19,1,0,20,Not remote,8
+234,India,13213.9186609896,1,1,1,1,Not remote,9
+235,United States,73500,1,0,1,10000,Not remote,7
+236,India,14682.131845544,3,1,0,20,Not remote,6
+237,United States,87000,5,0,1,10000,Remote,7
+238,United States,57000,1,0,0,20,Remote,9
+239,United Kingdom,45500,4,0,1,10000,Not remote,6
+240,United Kingdom,87500,10,1,0,10000,Not remote,7
+241,United States,60000,3,0,0,10,Not remote,7
+242,United Kingdom,80000,6,0,0,500,Not remote,8
+243,United States,110000,9,1,1,1000,Not remote,7
+244,United States,79000,10,0,0,10000,Remote,10
+245,United States,173000,20,0,1,10000,Not remote,10
+246,United States,45600,1,1,1,10,Not remote,4
+247,United Kingdom,65312.5,14,0,1,10000,Not remote,6
+248,Germany,43010.752688172,4,1,1,20,Not remote,8
+249,United States,43500,2,0,1,10,Not remote,7
+250,India,8809.27910732638,1,1,1,100,Not remote,8
+251,United States,72000,2,0,0,500,Not remote,7
+252,United Kingdom,75000,8,0,1,100,Not remote,6
+253,United States,70000,2,0,1,5000,Not remote,10
+254,United States,125000,3,1,1,10000,Not remote,9
+255,United Kingdom,90000,9,0,0,500,Not remote,7
+256,United States,101000,5,0,1,20,Not remote,5
+257,United States,195000,20,1,1,10000,Remote,8
+258,United States,110000,5,0,1,1000,Remote,6
+259,United Kingdom,37500,6,0,0,1,Not remote,7
+260,United Kingdom,41250,3,0,1,100,Not remote,7
+261,United Kingdom,55000,5,1,1,1000,Not remote,7
+262,United States,85000,4,1,1,10,Not remote,7
+263,United States,78000,10,0,0,20,Not remote,10
+264,United States,80000,20,0,1,1000,Not remote,8
+265,United Kingdom,31250,2,0,1,20,Not remote,7
+266,United Kingdom,75000,8,1,1,5000,Not remote,10
+267,Canada,45305.303030303,2,0,1,20,Not remote,10
+268,United States,92500,7,0,1,500,Not remote,8
+269,United Kingdom,53750,20,0,1,20,Not remote,8
+270,United States,57500,2,0,0,5000,Not remote,8
+271,United States,47500,1,0,1,20,Not remote,9
+272,United Kingdom,60000,20,1,0,100,Not remote,4
+273,United Kingdom,50000,3,0,1,1000,Not remote,8
+274,United States,180000,12,0,1,1000,Not remote,7
+275,United States,89000,12,0,0,100,Not remote,5
+276,United Kingdom,100000,20,0,0,1,Not remote,8
+277,Germany,59139.7849462366,20,0,1,100,Not remote,9
+278,United States,73500,4,0,1,10000,Not remote,8
+279,United States,108000,5,0,1,100,Not remote,10
+280,United States,136000,17,0,1,10000,Not remote,7
+281,United States,71000,16,0,1,100,Not remote,6
+282,United States,115000,8,0,1,20,Not remote,8
+283,United Kingdom,50000,7,0,1,100,Not remote,8
+284,United Kingdom,35000,1,0,0,20,Not remote,10
+285,Germany,107526.88172043,17,0,1,10,Not remote,10
+286,United Kingdom,36075,2,1,1,20,Not remote,2
+287,United States,86000,14,0,1,10000,Not remote,6
+288,United States,129000,1,0,0,100,Not remote,6
+289,United States,140000,6,0,1,20,Not remote,10
+290,Germany,62365.5913978495,3,0,1,20,Not remote,7
+291,United States,50000,3,0,1,10,Remote,6
+292,United States,128000,16,0,1,10000,Not remote,7
+293,United States,7800,9,0,1,100,Not remote,9
+294,United Kingdom,52500,13,0,1,100,Not remote,5
+295,United States,130000,11,1,1,100,Not remote,8
+296,United States,45000,1,0,1,20,Not remote,7
+297,United Kingdom,62500,13,1,1,1,Not remote,8
+298,United States,50000,5,0,1,1000,Not remote,9
+299,United States,75000,1,1,1,1000,Not remote,8
+300,United States,145000,20,0,1,20,Not remote,9
+301,Canada,75757.5757575758,9,0,1,20,Not remote,8
+302,Germany,18064.5161290323,1,0,1,100,Not remote,7
+303,United Kingdom,57500,1,0,1,10000,Not remote,8
+304,United States,95000,11,0,1,10,Remote,5
+305,United States,89000,4,0,1,100,Not remote,10
+306,United States,75000,4,0,1,10000,Not remote,10
+307,United States,66200,4,0,0,1000,Not remote,7
+308,United States,150000,12,0,1,1000,Not remote,8
+309,United States,90000,16,1,1,5000,Not remote,9
+310,United States,115000,6,1,1,100,Not remote,9
+311,United States,150000,20,0,0,1000,Not remote,4
+312,United Kingdom,131250,15,1,1,5000,Not remote,7
+313,United States,72000,5,1,0,10,Not remote,8
+314,United States,63000,4,1,1,10,Not remote,9
+315,United States,96000,5,1,1,10,Not remote,7
+316,United States,84000,3,0,1,5000,Not remote,6
+317,United States,135000,5,0,0,1,Not remote,10
+318,United States,72000,3,0,1,100,Not remote,10
+319,United States,21000,2,1,1,20,Not remote,8
+320,United States,105000,4,0,1,10000,Not remote,8
+321,United States,61800,3,0,0,10000,Not remote,5
+322,United States,70000,17,1,1,100,Not remote,10
+323,United States,185000,7,1,1,1000,Remote,9
+324,Germany,5707.52688172043,3,1,1,100,Not remote,8
+325,United States,120000,2,1,1,5000,Not remote,7
+326,United States,168000,17,1,1,20,Not remote,8
+327,United States,102000,14,0,0,1000,Not remote,6
+328,United States,106984,5,0,1,20,Not remote,8
+329,United States,90000,4,1,1,100,Not remote,10
+330,United States,145000,16,1,1,500,Not remote,7
+331,Canada,73484.8484848485,10,1,1,500,Not remote,8
+332,Canada,46212.1212121212,3,0,1,100,Not remote,10
+333,United States,80000,2,0,1,20,Not remote,8
+334,Germany,64516.1290322581,7,0,1,500,Not remote,8
+335,United Kingdom,25000,1,0,1,1000,Not remote,8
+336,United States,50000,20,0,0,1,Remote,5
+337,United States,92000,3,0,1,1000,Not remote,9
+338,United States,140000,12,0,1,5000,Not remote,8
+339,United States,70000,3,1,1,100,Remote,9
+340,United Kingdom,48750,3,0,0,10000,Not remote,8
+341,Canada,68181.8181818182,12,0,0,10,Not remote,10
+342,Canada,78030.303030303,9,0,0,20,Not remote,8
+343,United States,66000,3,0,1,5000,Not remote,9
+344,United States,80000,4,0,1,100,Not remote,8
+345,Germany,64516.1290322581,9,0,0,100,Not remote,6
+346,United States,120000,4,0,0,10000,Not remote,9
+347,United States,85000,3,0,0,1000,Not remote,8
+348,United States,70000,4,0,1,1,Not remote,8
+349,United States,70000,1,0,1,1000,Not remote,5
+350,United States,57500,3,0,1,100,Not remote,7
+351,United States,163000,9,0,1,10000,Not remote,9
+352,United States,156000,4,1,1,10000,Not remote,7
+353,United States,192000,14,0,1,1000,Not remote,8
+354,United States,100000,6,0,1,100,Not remote,8
+355,United States,115000,15,1,1,1000,Remote,7
+356,United States,45600,1,1,1,10,Not remote,4
+357,Canada,64393.9393939394,18,0,1,500,Not remote,10
+358,United States,59000,3,0,1,10000,Not remote,7
+359,United States,106000,12,0,1,10000,Not remote,6
+360,United States,71000,6,0,1,10000,Not remote,5
+361,Canada,45454.5454545455,2,0,1,10000,Not remote,8
+362,Canada,69696.9696969697,7,1,1,5000,Remote,7
+363,United Kingdom,41250,3,0,1,20,Not remote,8
+364,United Kingdom,32500,4,1,1,100,Not remote,7
+365,Canada,53030.303030303,5,0,1,10,Not remote,8
+366,United Kingdom,65000,5,0,1,20,Not remote,9
+367,Canada,49242.4242424242,2,0,0,20,Not remote,8
+368,Canada,39772.7272727273,1,0,1,20,Not remote,10
+369,United States,145000,8,0,1,10,Not remote,8
+370,United States,120000,3,0,0,100,Not remote,8
+371,United States,130000,17,0,1,10000,Not remote,8
+372,United States,70000,3,0,1,10000,Remote,6
+373,United States,75000,8,1,1,100,Not remote,7
+374,United States,82000,2,0,1,20,Not remote,6
+375,United States,93500,5,0,1,1000,Not remote,8
+376,United States,104000,4,0,1,500,Not remote,8
+377,United States,130000,16,1,1,500,Not remote,7
+378,Canada,49242.4242424242,15,0,1,1,Not remote,9
+379,India,10772.5884598444,2,1,0,5000,Not remote,7
+380,Germany,37634.4086021505,10,0,0,1000,Not remote,7
+381,United States,140000,14,0,1,10,Not remote,7
+382,United States,132000,2,0,0,10000,Not remote,9
+383,United States,50000,2,0,1,10000,Not remote,6
+384,United States,51500,1,0,0,10000,Not remote,8
+385,United States,89550,15,0,0,10000,Not remote,5
+386,United States,80000,4,0,1,5000,Not remote,8
+387,United States,180000,20,1,1,10000,Not remote,8
+388,United States,125000,9,1,1,500,Not remote,7
+389,United States,129000,16,1,1,5000,Not remote,10
+390,United States,125000,1,0,1,1000,Not remote,4
+391,United States,100000,16,0,1,20,Not remote,9
+392,United States,80000,6,0,1,100,Not remote,10
+393,United Kingdom,62500,8,0,1,1000,Not remote,6
+394,United States,87500,2,0,0,20,Not remote,7
+395,United States,135000,20,1,1,5000,Not remote,5
+396,United States,140000,2,1,1,10000,Not remote,8
+397,United Kingdom,45000,20,1,1,20,Not remote,7
+398,United States,92000,4,1,1,5000,Not remote,8
+399,United States,30000,6,1,1,1000,Not remote,9
+400,United States,89500,4,0,1,100,Not remote,9
+401,Canada,56818.1818181818,4,0,0,10000,Not remote,8
+402,Canada,30303.0303030303,1,0,1,20,Not remote,8
+403,United States,92000,3,0,1,100,Not remote,7
+404,United States,84000,6,0,1,10000,Not remote,9
+405,United States,101500,8,0,0,10000,Not remote,8
+406,United States,80000,5,0,0,1000,Not remote,8
+407,United States,168000,12,0,1,5000,Not remote,6
+408,United States,118000,7,0,1,5000,Not remote,4
+409,United States,51000,4,0,1,5000,Not remote,5
+410,United States,75000,15,0,0,100,Not remote,8
+411,India,19086.7713992072,3,0,1,20,Not remote,7
+412,United States,107000,20,0,1,1,Remote,10
+413,Canada,75757.5757575758,3,0,1,5000,Not remote,9
+414,Canada,37878.7878787879,1,0,1,20,Not remote,10
+415,India,16150.3450300984,1,0,0,500,Not remote,7
+416,United States,120000,3,0,0,1000,Not remote,6
+417,United States,70000,3,0,1,10000,Not remote,8
+418,United States,125000,2,0,0,10000,Not remote,7
+419,United States,96000,4,0,1,10000,Not remote,5
+420,Germany,69892.4731182796,20,1,1,20,Not remote,7
+421,United States,73000,9,0,1,20,Not remote,7
+422,Canada,71969.696969697,3,0,1,500,Not remote,8
+423,United States,165000,13,0,1,10000,Not remote,9
+424,United States,100000,2,1,1,500,Not remote,9
+425,Canada,89393.9393939394,14,0,0,1,Remote,10
+426,United States,90000,1,0,1,20,Not remote,8
+427,United States,155000,12,1,1,20,Remote,7
+428,India,12039.3481133461,6,0,1,10000,Not remote,7
+429,United States,100000,3,0,1,20,Not remote,8
+430,United States,125000,4,0,0,10000,Not remote,7
+431,United States,85000,6,0,1,20,Not remote,8
+432,India,16150.3450300984,19,0,1,500,Not remote,7
+433,India,19820.8779914844,6,0,0,10000,Not remote,3
+434,India,3523.71164293055,1,0,1,10,Not remote,9
+435,United States,155000,14,0,0,10000,Not remote,9
+436,India,5717.32491557774,1,0,1,10000,Not remote,7
+437,United States,80000,1,0,1,1,Not remote,7
+438,India,5600,5,0,1,10,Not remote,9
+439,United States,75000,3,0,1,10000,Not remote,8
+440,India,2936.42636910879,16,0,1,1,Not remote,6
+441,United States,97000,12,0,0,100,Not remote,7
+442,United States,95000,16,0,1,20,Not remote,6
+443,India,12846.865364851,7,0,0,500,Not remote,10
+444,United States,130000,7,1,0,100,Not remote,9
+445,India,7341.06592277199,6,0,1,500,Not remote,8
+446,Canada,43939.3939393939,2,0,1,100,Not remote,7
+447,United States,100000,15,0,1,1000,Not remote,10
+448,India,8809.27910732638,3,1,1,20,Not remote,7
+449,India,32300.6900601967,10,0,0,10000,Not remote,6
+450,United States,115000,20,0,1,20,Not remote,9
+451,United States,140000,8,0,1,10000,Not remote,7
+452,United States,80000,12,0,1,20,Not remote,9
+453,India,35237.1164293055,4,1,1,10,Not remote,7
+454,India,18205.8434884745,7,0,0,10000,Not remote,10
+455,India,3171.3404786375,2,0,1,10000,Not remote,10
+456,Germany,90000,20,0,0,1000,Remote,8
+457,India,8809.27910732638,2,0,1,5000,Not remote,6
+458,United States,130000,1,1,1,500,Not remote,4
+459,India,45514.6087211863,12,1,1,500,Not remote,8
+460,United States,156000,10,1,0,10000,Remote,8
+461,Germany,46451.6129032258,5,0,0,1,Not remote,7
+462,Germany,32258.064516129,3,0,1,1,Not remote,5
+463,United States,85000,7,1,0,20,Remote,9
+464,Germany,51612.9032258064,7,0,1,20,Not remote,7
+465,India,7634.70855968287,1,0,0,1,Not remote,8
+466,Germany,58064.5161290323,4,1,1,5000,Not remote,6
+467,India,6606.95933049479,5,0,1,100,Not remote,10
+468,Germany,11096.7741935484,6,1,1,20,Not remote,8
+469,United States,146000,12,1,0,20,Not remote,6
+470,United Kingdom,87500,10,1,1,100,Not remote,5
+471,United States,150000,13,1,0,10000,Not remote,8
+472,India,6166.49537512847,3,1,1,20,Not remote,8
+473,United States,145000,4,0,1,100,Not remote,8
+474,United Kingdom,48812.5,6,0,0,500,Not remote,8
+475,Germany,53763.4408602151,5,1,1,100,Not remote,8
+476,United Kingdom,35625,10,0,1,20,Not remote,8
+477,United States,115000,7,1,1,10000,Not remote,5
+478,India,5872.85273821759,2,0,1,10000,Not remote,8
+479,United Kingdom,42500,3,0,1,100,Not remote,8
+480,Germany,86021.5053763441,9,0,1,10000,Not remote,9
+481,United Kingdom,125000,18,0,1,20,Not remote,9
+482,United Kingdom,75000,19,1,1,1000,Not remote,6
+483,Germany,37634.4086021505,6,1,1,10,Not remote,8
+484,United States,155000,11,1,1,20,Not remote,10
+485,United Kingdom,57500,10,1,1,10,Not remote,5
+486,India,5872.85273821759,1,0,0,10000,Not remote,7
+487,United Kingdom,75000,15,1,1,10000,Not remote,7
+488,Germany,59139.7849462366,6,0,1,20,Not remote,8
+489,Germany,46236.5591397849,20,1,0,1,Not remote,8
+490,Germany,64516.1290322581,9,1,1,500,Not remote,8
+491,United Kingdom,57500,9,0,1,1000,Not remote,8
+492,India,8515.6364704155,1,1,1,1000,Not remote,8
+493,United Kingdom,81250,7,0,1,100,Not remote,7
+494,United Kingdom,57500,3,1,1,20,Not remote,10
+495,India,11745.7054764352,9,0,0,100,Not remote,8
+496,Germany,43010.752688172,1,0,1,100,Not remote,6
+497,United Kingdom,58656.25,20,0,0,10000,Not remote,7
+498,India,29364.2636910879,2,1,1,20,Not remote,8
+499,United Kingdom,37500,2,1,1,5000,Not remote,8
+500,United Kingdom,52500,10,0,1,20,Not remote,8
+501,India,5138.74614594039,1,0,0,20,Not remote,5
+502,Germany,64193.5483870968,13,0,1,10000,Not remote,7
+503,United Kingdom,50000,7,0,0,1000,Not remote,7
+504,India,10277.4922918808,5,1,1,10000,Not remote,2
+505,United Kingdom,46250,1,1,1,100,Not remote,10
+506,Germany,40860.2150537634,14,0,1,10,Not remote,9
+507,Germany,53763.4408602151,2,1,1,1000,Not remote,7
+508,Germany,1720.43010752688,1,1,1,1,Not remote,8
+509,Germany,91397.8494623656,13,0,1,20,Not remote,8
+510,India,4228.45397151666,1,0,0,20,Not remote,7
+511,United Kingdom,62500,17,0,1,20,Not remote,7
+512,Germany,32258.064516129,2,1,1,100,Not remote,4
+513,United Kingdom,65641.25,20,0,1,500,Not remote,9
+514,Germany,12795.6989247312,4,1,1,100,Not remote,7
+515,United States,70800,1,1,1,100,Not remote,8
+516,United States,54000,1,0,1,20,Not remote,8
+517,India,3964.17559829687,4,0,1,20,Not remote,6
+518,United Kingdom,47500,5,0,0,20,Not remote,8
+519,United Kingdom,87500,11,0,1,100,Not remote,7
+520,United Kingdom,65000,18,0,1,1000,Not remote,8
+521,India,5138.74614594039,1,0,1,500,Not remote,9
+522,United Kingdom,75000,8,0,0,100,Not remote,10
+523,United Kingdom,43750,3,1,0,20,Not remote,10
+524,Germany,64516.1290322581,7,1,1,100,Not remote,8
+525,Germany,60215.0537634409,10,0,0,1,Not remote,7
+526,India,3303.47966524739,1,0,1,10000,Remote,4
+527,United Kingdom,101250,9,1,1,100,Remote,9
+528,United Kingdom,56250,8,1,1,10000,Remote,2
+529,Germany,64086.0215053763,9,0,1,1000,Not remote,8
+530,United States,120000,14,0,1,1000,Not remote,8
+531,United Kingdom,75000,4,0,1,10000,Not remote,8
+532,United Kingdom,50000,5,0,1,10,Not remote,10
+533,United Kingdom,81250,15,0,1,1000,Not remote,7
+534,United Kingdom,40000,6,1,1,20,Remote,8
+535,Germany,73118.2795698925,8,1,1,10,Remote,7
+536,United States,65000,3,0,1,10000,Not remote,8
+537,United Kingdom,67500,5,0,1,5000,Not remote,0
+538,Germany,32258.064516129,4,0,0,20,Not remote,7
+539,Germany,51612.9032258064,10,1,1,20,Not remote,7
+540,United Kingdom,45000,14,0,1,100,Not remote,7
+541,United Kingdom,48750,6,0,0,100,Not remote,8
+542,Germany,58064.5161290323,10,0,1,100,Not remote,9
+543,United States,58000,2,0,1,10,Not remote,7
+544,United Kingdom,42500,5,0,1,1,Not remote,7
+545,United Kingdom,75000,20,0,1,10000,Not remote,7
+546,United Kingdom,43750,20,0,1,10,Not remote,8
+547,United Kingdom,68750,5,0,1,10000,Not remote,9
+548,United Kingdom,36250,4,0,1,500,Not remote,7
+549,United Kingdom,43625,1,0,1,100,Not remote,3
+550,United Kingdom,50000,4,0,1,100,Not remote,8
+551,Germany,86021.5053763441,19,0,1,100,Not remote,8
+552,United States,120000,19,1,1,5000,Not remote,9
+553,United Kingdom,45000,19,0,0,1,Remote,4
+554,United Kingdom,41250,14,0,0,1000,Not remote,8
+555,Germany,26881.7204301075,6,0,1,1000,Not remote,7
+556,India,5872.85273821759,1,0,0,10000,Not remote,3
+557,India,4404.63955366319,2,0,0,20,Not remote,7
+558,United Kingdom,70000,11,1,1,20,Not remote,7
+559,United Kingdom,72500,6,0,0,10000,Not remote,10
+560,United Kingdom,47500,3,0,1,20,Not remote,8
+561,United Kingdom,27500,3,0,0,20,Not remote,6
+562,Germany,68817.2043010753,15,1,1,10000,Not remote,8
+563,India,3156.65834679195,3,0,1,100,Not remote,9
+564,United States,100000,7,0,0,1,Not remote,10
+565,United States,97500,5,0,1,20,Not remote,8
+566,India,9161.65027161944,3,1,0,500,Remote,6
+567,United States,70000,2,1,1,20,Not remote,7
+568,United States,104000,11,1,1,100,Remote,8
+569,Germany,21505.376344086,3,0,1,100,Not remote,7
+570,United Kingdom,60000,10,1,1,10,Not remote,8
+571,Canada,48484.8484848485,2,1,1,20,Not remote,6
+572,United States,112500,17,0,1,1,Not remote,7
+573,United Kingdom,37500,2,0,1,10,Not remote,7
+574,United States,90000,2,0,1,1000,Not remote,8
+575,United States,65000,4,0,1,100,Not remote,10
+576,United States,125000,14,1,1,10000,Not remote,10
+577,United States,140000,10,0,0,10,Not remote,7
+578,Canada,47348.4848484848,1,1,1,500,Not remote,8
+579,United Kingdom,62500,7,1,0,100,Not remote,7
+580,United States,90750,6,0,1,10,Not remote,7
+581,United States,140000,20,1,1,20,Remote,10
+582,United States,74574,5,0,1,1000,Not remote,5
+583,United States,113300,7,0,1,20,Not remote,8
+584,United States,109000,20,0,0,5000,Not remote,6
+585,Germany,64516.1290322581,13,0,0,100,Not remote,7
+586,United States,81600,7,0,0,20,Not remote,3
+587,United States,65000,3,0,0,10000,Not remote,10
+588,United States,133000,10,0,1,100,Not remote,8
+589,United States,111000,16,0,0,10000,Not remote,7
+590,United Kingdom,47500,1,1,1,1,Remote,8
+591,United States,90000,2,0,0,10000,Not remote,9
+592,United Kingdom,76250,10,0,1,100,Not remote,8
+593,India,8809.27910732638,3,0,1,20,Remote,6
+594,United Kingdom,52500,4,1,1,500,Not remote,9
+595,Germany,5806.45161290323,1,0,1,20,Not remote,9
+596,United States,115000,10,1,1,500,Not remote,5
+597,India,8211.40638996715,1,1,0,20,Not remote,5
+598,United States,61000,1,0,1,1000,Not remote,9
+599,United States,153000,10,0,1,100,Not remote,10
+600,Canada,36363.6363636364,1,0,1,1,Not remote,9
+601,United States,120000,15,0,1,100,Not remote,6
+602,United States,95000,14,0,0,1,Not remote,9
+603,United States,75000,10,0,1,100,Not remote,8
+604,Canada,83333.3333333333,12,0,1,1000,Not remote,8
+605,United Kingdom,52500,4,0,1,100,Remote,10
+606,United States,155000,18,0,0,100,Remote,8
+607,United States,75000,2,0,0,100,Not remote,6
+608,United Kingdom,57500,5,1,1,20,Not remote,7
+609,United States,100000,3,0,1,100,Not remote,7
+610,United States,135000,18,0,1,5000,Not remote,8
+611,United States,70000,8,0,1,100,Not remote,8
+612,United Kingdom,56250,5,0,0,100,Not remote,6
+613,United States,104000,8,0,1,10000,Not remote,8
+614,Canada,53030.303030303,9,0,1,100,Not remote,10
+615,Canada,39393.9393939394,1,0,1,10,Not remote,10
+616,Canada,69696.9696969697,9,0,1,500,Not remote,7
+617,United Kingdom,75000,9,0,1,1000,Not remote,9
+618,India,8809.27910732638,1,1,1,10000,Not remote,7
+619,United States,90000,6,0,0,100,Not remote,9
+620,United States,60000,3,0,0,1000,Not remote,5
+621,United States,103000,20,0,1,1000,Not remote,7
+622,United States,85000,19,0,1,100,Not remote,7
+623,United States,101000,8,1,0,500,Not remote,5
+624,United Kingdom,62500,3,0,1,10,Not remote,8
+625,United States,53000,3,1,1,10,Not remote,8
+626,United Kingdom,52500,4,0,1,100,Not remote,7
+627,United Kingdom,32500,3,1,0,100,Not remote,7
+628,United Kingdom,77500,17,1,0,1000,Not remote,8
+629,Canada,41666.6666666667,4,1,1,10,Not remote,7
+630,United Kingdom,47500,5,0,1,1,Not remote,8
+631,United States,73000,18,0,1,5000,Not remote,7
+632,United States,74000,17,1,1,10000,Remote,9
+633,United States,70000,3,0,1,100,Not remote,7
+634,United States,96000,6,1,0,10000,Not remote,9
+635,United States,100000,16,0,0,10000,Remote,9
+636,United States,110000,10,0,1,5000,Not remote,9
+637,United States,78000,9,0,0,10000,Not remote,5
+638,Germany,25806.4516129032,2,1,0,20,Not remote,8
+639,United Kingdom,32877.5,3,0,0,20,Not remote,8
+640,United States,72000,2,0,1,20,Not remote,6
+641,Germany,53763.4408602151,9,0,1,10,Remote,7
+642,Canada,75757.5757575758,9,0,1,100,Not remote,8
+643,Canada,37878.7878787879,3,1,1,1,Not remote,7
+644,Canada,45454.5454545455,10,0,0,10000,Not remote,10
+645,United States,65000,1,0,1,1,Not remote,8
+646,United Kingdom,55000,10,1,1,10,Not remote,7
+647,United States,72000,9,1,1,100,Not remote,7
+648,United Kingdom,46875,5,0,1,1,Remote,9
+649,United Kingdom,45000,16,1,1,100,Not remote,6
+650,United Kingdom,81250,10,0,0,10,Not remote,8
+651,United States,40000,1,0,0,500,Not remote,10
+652,Canada,49242.4242424242,5,0,0,500,Not remote,10
+653,United States,90000,7,0,0,100,Remote,9
+654,United States,111500,2,0,1,10000,Not remote,6
+655,United States,44000,9,0,1,100,Not remote,8
+656,United Kingdom,62500,16,0,1,100,Not remote,10
+657,United States,85000,8,1,1,10,Remote,8
+658,Canada,45454.5454545455,4,1,1,100,Not remote,7
+659,United States,105000,20,0,1,500,Not remote,8
+660,United States,70000,17,0,0,10000,Not remote,6
+661,United Kingdom,32500,4,0,0,20,Not remote,4
+662,United Kingdom,100000,9,1,1,1,Not remote,9
+663,United States,90000,20,0,0,100,Remote,7
+664,United Kingdom,50000,14,1,0,10000,Not remote,10
+665,United States,150000,20,0,1,20,Not remote,8
+666,United States,64000,3,0,0,1000,Not remote,7
+667,United States,82500,3,0,1,100,Not remote,8
+668,United States,75000,1,0,1,1000,Not remote,8
+669,United States,57000,1,1,1,20,Not remote,8
+670,Canada,56818.1818181818,6,0,1,100,Not remote,9
+671,Canada,53030.303030303,5,0,1,100,Not remote,7
+672,United States,105000,14,0,1,100,Not remote,6
+673,United States,72000,1,0,1,1,Remote,8
+674,United States,70000,2,1,1,20,Not remote,8
+675,United States,98000,9,0,0,1000,Not remote,8
+676,India,13948.0252532668,5,0,1,100,Not remote,8
+677,United States,73000,7,1,1,100,Not remote,9
+678,Germany,38709.6774193548,5,1,1,20,Not remote,7
+679,United States,65000,4,0,1,500,Not remote,7
+680,Germany,83870.9677419355,8,0,0,20,Not remote,8
+681,United States,89000,20,0,1,10000,Not remote,7
+682,United Kingdom,106250,11,0,1,10,Not remote,6
+683,United Kingdom,31500,2,0,1,100,Not remote,3
+684,United Kingdom,53125,6,0,0,10000,Not remote,8
+685,United States,120000,20,0,1,5000,Not remote,10
+686,United Kingdom,66250,10,1,0,10000,Not remote,7
+687,United States,118000,9,0,1,10000,Not remote,9
+688,Germany,86021.5053763441,20,0,0,20,Not remote,8
+689,United States,85000,9,1,1,20,Not remote,6
+690,Germany,43010.752688172,7,1,1,1000,Not remote,10
+691,United Kingdom,48437.5,4,1,1,100,Not remote,8
+692,United Kingdom,51250,4,1,1,20,Not remote,7
+693,Germany,37634.4086021505,3,1,0,10,Not remote,7
+694,United States,65000,3,1,1,500,Not remote,8
+695,Germany,64516.1290322581,10,0,1,100,Not remote,8
+696,Canada,60606.0606060606,6,1,0,500,Not remote,9
+697,United Kingdom,33750,4,1,1,100,Not remote,8
+698,United States,132000,3,0,1,10000,Not remote,4
+699,United States,119000,12,1,1,10000,Remote,7
+700,United States,80000,3,1,1,10,Not remote,10
+701,United States,148000,20,0,1,100,Not remote,9
+702,United Kingdom,41250,6,0,1,20,Not remote,6
+703,United States,100000,20,1,1,10000,Not remote,6
+704,United States,100000,3,0,0,100,Not remote,7
+705,United Kingdom,48125,4,0,0,100,Not remote,8
+706,United States,105000,5,1,0,20,Not remote,8
+707,United Kingdom,41250,2,0,0,20,Not remote,6
+708,United States,88500,4,0,0,500,Not remote,8
+709,United States,60000,1,1,1,500,Not remote,7
+710,United States,115000,20,1,1,100,Not remote,8
+711,United Kingdom,81250,20,1,1,1000,Remote,8
+712,Canada,75757.5757575758,16,1,0,20,Not remote,8
+713,Canada,87121.2121212121,14,0,1,100,Not remote,10
+714,Canada,64393.9393939394,16,0,0,1,Not remote,7
+715,United States,120000,10,0,0,10000,Not remote,8
+716,United States,55000,5,0,1,5000,Not remote,9
+717,United States,131000,14,0,1,1000,Remote,7
+718,United States,66000,2,0,1,10,Not remote,7
+719,United States,89000,2,0,1,1000,Not remote,0
+720,United Kingdom,50750,4,0,0,10000,Not remote,6
+721,Canada,45454.5454545455,11,0,1,10000,Not remote,2
+722,United States,52000,20,1,1,1,Not remote,8
+723,United Kingdom,43750,6,0,1,20,Not remote,7
+724,United States,106000,18,0,1,100,Not remote,7
+725,United States,130000,10,0,1,100,Not remote,7
+726,Canada,75757.5757575758,20,0,0,10000,Not remote,9
+727,United States,90000,7,0,1,1,Not remote,4
+728,United States,135000,20,0,0,10,Not remote,7
+729,United States,110000,20,0,1,100,Remote,8
+730,United States,120000,20,1,1,100,Remote,8
+731,United States,173000,20,1,0,10,Not remote,10
+732,Canada,41666.6666666667,4,0,1,20,Not remote,5
+733,Canada,62121.2121212121,10,0,1,10,Not remote,8
+734,United Kingdom,40000,2,0,1,10,Not remote,9
+735,United States,180000,13,1,1,1000,Not remote,8
+736,United Kingdom,52500,4,0,1,10000,Not remote,7
+737,United Kingdom,52500,3,0,0,1000,Not remote,7
+738,United States,110000,8,0,0,10,Not remote,8
+739,United States,76000,20,0,0,1000,Not remote,9
+740,Germany,59139.7849462366,2,0,1,10000,Not remote,9
+741,United States,68000,2,0,1,10,Remote,7
+742,United States,40000,1,0,1,100,Remote,10
+743,United States,120000,14,0,0,20,Remote,7
+744,Germany,59139.7849462366,6,0,1,20,Not remote,8
+745,United States,40000,4,0,0,20,Not remote,6
+746,United States,75000,8,0,1,100,Not remote,8
+747,United States,73000,2,0,1,10000,Not remote,8
+748,Canada,31818.1818181818,2,1,1,10,Not remote,8
+749,United States,45000,2,0,1,1,Not remote,8
+750,United States,68000,3,1,0,1,Not remote,10
+751,Canada,72727.2727272727,17,0,1,20,Not remote,7
+752,United States,110000,2,0,1,100,Not remote,10
+753,United States,130000,20,0,0,500,Remote,8
+754,Canada,49242.4242424242,1,0,0,20,Not remote,7
+755,United States,135000,11,1,0,10000,Not remote,9
+756,United States,87000,14,1,1,500,Not remote,8
+757,United States,121000,20,0,0,10000,Not remote,8
+758,United Kingdom,28125,2,0,1,100,Not remote,8
+759,United States,50000,1,0,0,20,Not remote,5
+760,Canada,53030.303030303,15,1,1,500,Not remote,10
+761,United States,75000,4,0,1,20,Not remote,7
+762,United States,153000,5,1,1,20,Not remote,7
+763,United States,110000,9,0,1,1000,Remote,8
+764,United Kingdom,71250,9,0,1,20,Not remote,7
+765,Canada,33621.2121212121,2,0,0,500,Not remote,8
+766,Canada,42424.2424242424,3,0,1,10000,Not remote,10
+767,United States,90000,2,0,1,100,Not remote,7
+768,United States,80000,4,1,1,100,Not remote,8
+769,United States,65060,4,1,1,1,Not remote,6
+770,Germany,66129.0322580645,20,0,1,10,Not remote,8
+771,United States,30000,2,1,1,10,Not remote,6
+772,United States,145600,20,0,1,10000,Not remote,10
+773,Canada,49242.4242424242,2,0,1,20,Not remote,8
+774,United States,175000,13,0,1,20,Remote,8
+775,United Kingdom,82500,9,1,1,1000,Not remote,8
+776,United States,80000,2,0,1,1000,Not remote,8
+777,Canada,56818.1818181818,3,0,0,100,Not remote,10
+778,United States,145000,18,1,0,10000,Not remote,8
+779,United States,55000,4,0,1,1000,Not remote,6
+780,United States,100000,4,0,1,20,Not remote,8
+781,United States,140000,20,1,0,1,Remote,8
+782,Canada,37878.7878787879,1,0,1,10,Not remote,9
+783,United States,125000,8,0,1,100,Not remote,9
+784,United States,145000,17,0,1,10000,Not remote,7
+785,United States,180000,20,0,0,20,Remote,9
+786,United States,75000,2,0,0,20,Not remote,9
+787,United States,126500,20,1,1,1000,Remote,10
+788,United States,126000,20,1,0,1000,Not remote,8
+789,Germany,48387.0967741935,5,1,1,20,Not remote,5
+790,United States,51000,1,0,1,100,Not remote,10
+791,United States,77250,2,1,1,100,Not remote,6
+792,United States,103000,20,0,1,5000,Not remote,8
+793,United States,109000,20,1,1,10000,Not remote,8
+794,United States,17000,1,0,1,100,Not remote,9
+795,United States,122500,13,0,1,500,Not remote,10
+796,Canada,41666.6666666667,1,0,1,20,Not remote,10
+797,United States,65000,3,1,1,100,Not remote,7
+798,United States,156000,4,0,0,10000,Not remote,7
+799,United States,80000,1,1,1,10,Not remote,10
+800,United States,76000,4,0,1,100,Not remote,8
+801,United States,105000,20,1,1,100,Not remote,8
+802,United States,65000,3,1,1,20,Not remote,8
+803,United States,108000,7,1,1,10000,Not remote,9
+804,United States,90000,4,1,1,100,Not remote,8
+805,Canada,34090.9090909091,8,1,1,20,Not remote,8
+806,United Kingdom,18125,3,1,0,1000,Not remote,10
+807,Germany,59139.7849462366,14,1,1,100,Not remote,3
+808,United States,180000,20,0,1,10000,Not remote,10
+809,United States,110000,2,0,1,10000,Not remote,7
+810,United States,70000,1,0,0,1000,Not remote,9
+811,United States,115668,1,0,1,10000,Not remote,3
+812,Canada,74242.4242424242,14,0,1,100,Not remote,9
+813,United States,73000,4,0,0,10000,Not remote,5
+814,United States,70000,8,1,1,100,Not remote,7
+815,United States,118000,13,0,1,20,Remote,9
+816,United States,62000,3,0,1,1000,Not remote,6
+817,United States,40000,2,0,1,1,Not remote,5
+818,United Kingdom,51250,14,0,1,10000,Not remote,8
+819,Canada,75757.5757575758,10,0,1,20,Not remote,5
+820,India,24959.6241374248,9,1,1,100,Not remote,9
+821,Germany,59139.7849462366,3,0,1,100,Not remote,6
+822,United States,75000,3,0,1,20,Not remote,8
+823,United States,70000,10,0,1,10000,Not remote,8
+824,United States,45000,7,1,1,1,Not remote,8
+825,Canada,34090.9090909091,2,0,0,1,Not remote,8
+826,United States,53000,2,0,1,10,Not remote,7
+827,United States,72000,1,0,1,100,Not remote,9
+828,United States,122400,20,0,0,100,Not remote,9
+829,United States,54000,2,0,0,10000,Not remote,7
+830,United States,143000,11,1,1,100,Not remote,7
+831,United States,170000,6,0,1,10000,Not remote,7
+832,United Kingdom,18750,1,1,1,20,Not remote,9
+833,United States,90000,0,0,1,1000,Not remote,7
+834,United States,115000,4,0,1,10000,Not remote,8
+835,United States,77000,1,0,1,100,Not remote,10
+836,United States,125000,17,1,1,100,Not remote,9
+837,United States,160000,9,1,1,20,Not remote,8
+838,United States,91500,7,0,0,500,Not remote,8
+839,United States,123456,8,0,0,20,Not remote,10
+840,United States,36000,2,0,1,10,Remote,8
+841,Canada,45454.5454545455,8,1,0,20,Not remote,10
+842,United States,56000,4,0,0,100,Remote,5
+843,United Kingdom,193750,17,1,1,10000,Not remote,7
+844,Germany,41935.4838709677,4,0,1,10000,Not remote,5
+845,United Kingdom,127500,7,0,1,10000,Not remote,9
+846,Canada,68181.8181818182,15,0,0,10,Not remote,8
+847,Canada,83333.3333333333,11,1,0,100,Not remote,8
+848,United States,195000,20,0,1,10000,Not remote,6
+849,Canada,45454.5454545455,1,0,1,100,Not remote,10
+850,United States,64000,1,0,0,500,Not remote,8
+851,United States,88000,18,0,0,1000,Not remote,9
+852,Canada,80681.8181818182,4,0,0,20,Remote,6
+853,United States,60000,10,0,1,10,Not remote,10
+854,United States,70000,6,0,1,10,Not remote,8
+855,United States,71000,3,0,1,20,Not remote,7
+856,Canada,49242.4242424242,3,0,0,20,Not remote,8
+857,United States,130000,7,1,1,10000,Not remote,9
+858,United Kingdom,31250,2,0,1,20,Not remote,7
+859,United States,67200,3,0,1,10000,Not remote,8
+860,United States,95900,20,1,1,5000,Not remote,8
+861,United Kingdom,52500,10,0,1,20,Not remote,7
+862,United States,66000,2,1,1,10,Not remote,10
+863,United States,82500,3,1,1,1000,Not remote,9
+864,United Kingdom,74967.5,7,0,1,500,Not remote,8
+865,United Kingdom,62500,5,0,1,10,Not remote,8
+866,United States,115000,20,1,1,1000,Not remote,9
+867,United States,100000,16,1,1,10000,Not remote,7
+868,United States,82000,6,0,1,10000,Not remote,9
+869,United States,180000,20,1,1,1000,Not remote,10
+870,United States,90000,3,0,1,500,Not remote,8
+871,United States,135000,19,0,1,100,Not remote,8
+872,Canada,47727.2727272727,3,1,1,100,Not remote,10
+873,United States,140000,20,0,0,10000,Not remote,8
+874,United States,91000,11,0,1,1000,Not remote,8
+875,Germany,79569.8924731183,4,1,1,10000,Not remote,10
+876,United Kingdom,42500,4,0,1,20,Not remote,7
+877,United States,89500,2,0,1,500,Not remote,7
+878,United States,65000,1,0,0,100,Not remote,6
+879,United States,113000,9,0,1,10000,Remote,10
+880,United States,75000,1,0,1,100,Not remote,5
+881,Canada,143181.818181818,4,0,1,100,Remote,9
+882,United States,68000,1,1,1,10,Not remote,10
+883,United States,100000,16,1,1,1,Not remote,10
+884,United States,123000,12,0,0,1000,Not remote,7
+885,United States,150000,20,1,1,5000,Not remote,7
+886,India,8956.10042578182,4,1,1,5000,Not remote,7
+887,United States,105000,5,0,1,10000,Not remote,9
+888,United States,40000,6,1,1,1,Not remote,10
+889,United States,83000,1,1,1,1000,Not remote,10
+890,United States,175000,6,1,1,10000,Not remote,8
+891,Canada,51515.1515151515,1,0,0,100,Not remote,9
+892,United States,121000,10,0,1,10000,Not remote,9
+893,United Kingdom,87500,8,1,0,20,Not remote,8
+894,United States,50000,2,0,1,20,Not remote,8
+895,India,22023.197768316,4,0,1,1000,Not remote,6
+896,United States,142500,10,1,1,20,Remote,9
+897,United States,110000,14,0,1,1,Not remote,10
+898,United States,90000,20,0,0,5000,Not remote,8
+899,United States,110000,3,0,1,10000,Not remote,7
+900,United Kingdom,38580,13,0,1,100,Not remote,6
+901,United States,90000,3,0,0,100,Not remote,8
+902,India,22023.197768316,8,0,0,10000,Not remote,8
+903,India,4404.63955366319,1,1,0,10000,Not remote,4
+904,India,3523.71164293055,1,1,1,1,Not remote,10
+905,United Kingdom,56250,3,1,1,10000,Not remote,9
+906,United States,81000,2,1,1,10000,Not remote,8
+907,United Kingdom,75000,7,0,1,100,Not remote,6
+908,Germany,48387.0967741935,3,0,0,20,Not remote,5
+909,United Kingdom,62500,5,1,1,1,Not remote,6
+910,Germany,55913.9784946237,6,1,1,20,Not remote,7
+911,United States,175000,9,0,1,1000,Not remote,6
+912,United Kingdom,53750,20,0,1,10,Not remote,6
+913,Germany,58064.5161290323,5,0,1,1000,Not remote,7
+914,United Kingdom,41250,7,1,1,1,Not remote,6
+915,Germany,91397.8494623656,15,1,1,10000,Not remote,7
+916,India,10277.4922918808,3,0,1,20,Not remote,6
+917,United States,149000,20,1,1,5000,Remote,8
+918,India,11745.7054764352,10,0,1,10000,Remote,7
+919,United States,167000,20,1,1,1,Not remote,10
+920,United States,85000,3,0,1,20,Not remote,8
+921,United States,100400,11,0,0,20,Not remote,8
+922,United Kingdom,30000,1,0,0,10,Not remote,7
+923,United Kingdom,47500,16,1,0,1000,Not remote,9
+924,United Kingdom,112500,7,1,1,10000,Not remote,9
+925,United States,75000,17,0,1,20,Not remote,8
+926,United Kingdom,53750,5,1,1,100,Not remote,8
+927,Canada,90909.0909090909,14,1,1,10000,Not remote,8
+928,India,7047.42328586111,5,0,1,10000,Not remote,10
+929,United States,115000,20,0,1,100,Remote,9
+930,Germany,53763.4408602151,1,1,1,5000,Not remote,6
+931,United States,110000,9,1,1,100,Not remote,7
+932,United Kingdom,57500,6,1,1,500,Not remote,7
+933,United Kingdom,37875,8,0,0,10,Not remote,5
+934,Canada,49242.4242424242,3,1,1,20,Not remote,8
+935,Germany,45161.2903225806,9,0,1,20,Not remote,8
+936,United States,108000,6,1,1,10000,Not remote,8
+937,United States,126000,20,1,1,20,Not remote,5
+938,United Kingdom,43750,2,0,1,10,Not remote,7
+939,India,8192.62956981354,1,0,1,5000,Not remote,3
+940,United States,24000,3,0,1,10,Not remote,8
+941,United States,88750,11,1,1,5000,Not remote,8
+942,Germany,12903.2258064516,1,0,1,10,Not remote,8
+943,Germany,48387.0967741935,10,0,1,20,Not remote,6
+944,United States,40000,2,1,1,100,Not remote,8
+945,United States,24000,4,0,1,10000,Not remote,7
+946,India,15959.4773161063,6,0,0,10000,Not remote,8
+947,United States,150000,9,0,1,100,Not remote,3
+948,Germany,51612.9032258064,6,0,1,100,Not remote,8
+949,United States,110000,11,0,1,10000,Not remote,8
+950,Germany,64516.1290322581,5,0,1,1000,Not remote,9
+951,United States,92000,5,0,0,100,Not remote,5
+952,Canada,90909.0909090909,16,1,1,500,Remote,10
+953,Germany,64516.1290322581,20,0,1,10000,Not remote,5
+954,Germany,19354.8387096774,9,0,1,20,Not remote,7
+955,United Kingdom,29375,2,0,1,20,Not remote,9
+956,United Kingdom,45000,3,0,1,100,Not remote,8
+957,United States,170000,14,0,1,10000,Not remote,7
+958,United Kingdom,59375,14,0,1,20,Not remote,7
+959,United States,45000,2,0,1,1000,Not remote,7
+960,United States,80000,3,1,1,100,Not remote,9
+961,United States,88000,15,0,0,100,Not remote,5
+962,United States,130000,1,1,1,100,Not remote,9
+963,United States,45000,1,1,1,20,Not remote,6
+964,United States,65000,2,1,1,20,Not remote,8
+965,Canada,84090.9090909091,5,0,1,20,Not remote,8
+966,United States,72000,2,1,1,500,Remote,8
+967,United States,70000,1,0,0,20,Not remote,8
+968,United States,42500,8,1,1,10,Not remote,8
+969,United States,107250,9,0,1,500,Not remote,8
+970,United States,80000,4,0,1,1,Remote,9
+971,Canada,72727.2727272727,5,0,1,20,Not remote,8
+972,Germany,35483.8709677419,18,1,1,1,Remote,7
+973,Canada,75757.5757575758,20,1,0,10,Not remote,8
+974,United States,100000,4,0,1,500,Not remote,10
+975,United States,120000,4,0,1,100,Not remote,8
+976,India,3523.71164293055,2,0,1,1,Not remote,10
+977,Canada,109848.484848485,20,1,1,500,Not remote,8
+978,India,11011.598884158,2,0,0,1000,Not remote,6
+979,United States,120000,15,0,1,1000,Not remote,7
+980,United States,60000,5,1,1,20,Not remote,6
+981,United Kingdom,40000,9,0,1,500,Not remote,5
+982,India,16150.3450300984,1,0,1,100,Not remote,7
+983,United States,63500,3,0,1,1000,Not remote,8
+984,United Kingdom,75000,16,1,1,20,Not remote,6
+985,Germany,67204.3010752688,5,1,1,100,Not remote,8
+986,Germany,66666.6666666667,9,0,0,1000,Not remote,9
+987,United Kingdom,105000,6,0,1,10000,Not remote,8
+988,United States,62000,1,1,1,1000,Not remote,5
+989,United States,135000,4,0,1,10000,Not remote,8
+990,United States,110000,20,0,1,100,Not remote,8
+991,United Kingdom,37500,1,0,1,10,Remote,9
+992,United Kingdom,75000,18,1,1,1,Not remote,4
+993,Canada,60606.0606060606,1,0,1,1000,Not remote,9
+994,United States,34800,2,0,0,1,Remote,9
+995,Canada,49242.4242424242,0,0,1,20,Not remote,9
+996,India,5872.85273821759,1,0,1,10000,Not remote,3
+997,United States,85000,15,1,1,20,Not remote,8
+998,United Kingdom,35000,4,0,1,500,Not remote,9
+999,Germany,3763.44086021505,6,0,0,20,Not remote,6
+1000,Canada,68181.8181818182,10,1,1,20,Not remote,9
+1001,United States,160000,10,0,0,10000,Not remote,8
+1002,United States,125000,12,0,0,1000,Not remote,7
+1003,United States,90000,8,0,1,20,Not remote,7
+1004,United States,71000,6,0,1,10000,Not remote,9
+1005,United Kingdom,25000,4,0,1,10,Not remote,8
+1006,United States,96000,5,0,1,5000,Not remote,10
+1007,United States,165000,20,1,1,100,Not remote,10
+1008,United States,110000,7,0,1,10000,Not remote,10
+1009,United States,120000,4,1,1,100,Not remote,9
+1010,India,19086.7713992072,10,1,1,1000,Not remote,9
+1011,United States,55000,1,0,1,1000,Not remote,4
+1012,India,3876.08280722361,4,0,1,100,Not remote,6
+1013,Germany,34838.7096774194,4,0,0,1,Not remote,8
+1014,India,11099.6916752312,4,1,1,10000,Not remote,6
+1015,Germany,43010.752688172,7,0,0,10000,Not remote,9
+1016,Germany,51612.9032258064,16,0,0,10,Not remote,8
+1017,United Kingdom,43750,6,0,0,10000,Not remote,7
+1018,United Kingdom,44375,20,0,1,100,Not remote,8
+1019,United Kingdom,41875,4,0,1,5000,Not remote,10
+1020,Germany,50322.5806451613,5,0,0,20,Not remote,8
+1021,United Kingdom,56250,6,1,1,100,Not remote,7
+1022,United Kingdom,50000,5,0,1,20,Not remote,7
+1023,United Kingdom,59375,5,1,1,10,Remote,7
+1024,United Kingdom,56250,6,1,1,100,Not remote,6
+1025,United Kingdom,31250,2,0,1,100,Not remote,8
+1026,India,8809.27910732638,2,1,1,5000,Remote,6
+1027,Germany,34838.7096774194,6,0,1,20,Not remote,9
+1028,India,2642.78373219792,2,1,1,1,Not remote,3
+1029,India,4551.46087211863,2,0,0,10,Not remote,3
+1030,India,7047.42328586111,4,0,1,1000,Not remote,5
+1031,United Kingdom,31250,3,0,0,20,Not remote,8
+1032,United Kingdom,72500,5,0,1,10000,Remote,9
+1033,United Kingdom,63750,20,0,1,100,Not remote,7
+1034,United States,84000,20,0,0,100,Remote,8
+1035,United Kingdom,27500,1,0,1,1,Not remote,7
+1036,India,17618.5582146528,5,0,0,500,Not remote,8
+1037,India,10277.4922918808,4,0,0,100,Not remote,7
+1038,Germany,49462.3655913978,2,0,1,1000,Not remote,8
+1039,United States,85000,20,0,1,100,Not remote,9
+1040,United Kingdom,37500,5,0,1,20,Not remote,8
+1041,United Kingdom,40000,6,1,1,20,Not remote,7
+1042,United States,75000,4,0,0,500,Not remote,8
+1043,Germany,51612.9032258064,5,0,1,500,Not remote,7
+1044,United States,140000,12,0,0,10,Remote,10
+1045,Germany,41935.4838709677,2,0,1,500,Not remote,7
+1046,India,5138.74614594039,2,0,0,100,Not remote,7
+1047,United Kingdom,55000,16,0,1,1000,Not remote,8
+1048,United States,47500,2,0,0,20,Not remote,9
+1049,United Kingdom,100000,9,1,1,10000,Not remote,7
+1050,United Kingdom,29250,3,0,1,500,Not remote,8
+1051,United Kingdom,100000,20,0,1,100,Not remote,8
+1052,Canada,75757.5757575758,11,0,0,10000,Not remote,8
+1053,United States,75000,11,0,0,1000,Not remote,9
+1054,United Kingdom,52500,19,0,1,10,Not remote,9
+1055,United States,93000,20,0,1,5000,Not remote,9
+1056,United Kingdom,51582.5,10,0,0,20,Not remote,0
+1057,Germany,67741.935483871,8,0,1,10,Not remote,7
+1058,Germany,53593.5483870968,7,1,1,1000,Not remote,7
+1059,Germany,42473.1182795699,5,0,1,100,Not remote,7
+1060,United Kingdom,40000,2,0,1,1,Not remote,8
+1061,United States,110000,7,1,1,100,Not remote,8
+1062,United States,86500,20,0,1,1000,Not remote,9
+1063,United States,120000,20,1,1,1,Remote,10
+1064,United Kingdom,42500,7,0,1,1,Remote,9
+1065,United States,135000,19,0,1,20,Not remote,7
+1066,United States,90000,13,0,1,500,Remote,8
+1067,Germany,51612.9032258064,5,0,0,10000,Not remote,7
+1068,Germany,1989.24731182796,3,0,1,1000,Not remote,10
+1069,United States,77000,4,1,0,10,Not remote,7
+1070,United States,115000,10,0,1,100,Not remote,9
+1071,United States,140000,20,1,0,1000,Not remote,8
+1072,United States,66000,4,0,0,1000,Not remote,7
+1073,Germany,55483.8709677419,11,0,1,1000,Not remote,8
+1074,United States,120000,20,0,1,100,Not remote,8
+1075,United States,102000,9,0,1,100,Not remote,6
+1076,United States,57000,2,0,1,20,Not remote,7
+1077,Germany,53763.4408602151,5,0,0,1,Not remote,6
+1078,United Kingdom,71250,12,0,0,20,Not remote,10
+1079,Germany,53763.4408602151,1,0,1,10000,Not remote,5
+1080,United States,100000,15,0,0,10000,Not remote,8
+1081,United Kingdom,42500,1,0,1,5000,Not remote,9
+1082,United States,110000,4,0,1,500,Not remote,10
+1083,United States,102000,20,0,1,1000,Not remote,8
+1084,Germany,66666.6666666667,8,1,1,10,Not remote,7
+1085,Germany,15483.8709677419,1,1,1,100,Not remote,10
+1086,India,3171.3404786375,2,1,1,10,Remote,4
+1087,United States,125000,14,0,0,10000,Not remote,7
+1088,Canada,68181.8181818182,14,0,0,100,Not remote,7
+1089,Canada,37878.7878787879,7,0,1,10000,Not remote,7
+1090,United Kingdom,52500,10,0,0,10000,Not remote,7
+1091,Canada,47727.2727272727,4,1,1,10,Not remote,8
+1092,Canada,59090.9090909091,10,0,1,100,Not remote,9
+1093,United States,150000,20,0,1,100,Remote,8
+1094,United States,120000,20,0,0,20,Not remote,7
+1095,United States,68000,3,0,0,100,Not remote,8
+1096,Germany,51612.9032258064,1,0,0,100,Not remote,10
+1097,United States,100000,10,0,0,100,Not remote,5
+1098,Germany,55913.9784946237,1,0,1,500,Not remote,9
+1099,United States,140000,20,0,1,100,Remote,9
+1100,United Kingdom,56250,3,0,1,100,Not remote,10
+1101,Canada,98484.8484848485,20,1,1,10000,Not remote,10
+1102,United States,49500,4,0,1,20,Not remote,7
+1103,United Kingdom,45000,2,0,0,10000,Not remote,6
+1104,Germany,64516.1290322581,9,1,1,10,Not remote,7
+1105,United States,103500,10,0,0,10000,Remote,8
+1106,United States,103000,12,1,1,20,Not remote,10
+1107,United States,82000,6,0,1,1,Not remote,10
+1108,Canada,50000,12,0,0,500,Not remote,5
+1109,Canada,71969.696969697,5,0,1,20,Not remote,7
+1110,United States,115000,5,1,1,20,Remote,7
+1111,Germany,73118.2795698925,20,0,0,100,Not remote,7
+1112,United States,53000,1,1,1,1000,Not remote,7
+1113,United Kingdom,62500,8,1,1,1000,Not remote,6
+1114,United States,53000,3,0,1,10,Not remote,9
+1115,Canada,41666.6666666667,11,1,1,20,Not remote,9
+1116,United States,48000,7,0,1,1,Remote,9
+1117,Canada,39393.9393939394,1,0,1,10,Not remote,7
+1118,United Kingdom,58750,5,1,1,20,Not remote,8
+1119,Canada,64393.9393939394,13,0,0,10000,Not remote,7
+1120,Germany,3225.8064516129,4,1,1,100,Not remote,9
+1121,United States,80000,15,0,1,100,Not remote,6
+1122,United States,100000,20,0,0,100,Not remote,4
+1123,United Kingdom,68750,6,1,1,10,Not remote,7
+1124,United States,63000,4,0,1,1000,Not remote,7
+1125,Canada,51515.1515151515,20,1,0,1,Remote,7
+1126,United States,175000,20,0,1,500,Not remote,9
+1127,United States,63000,3,1,1,1000,Not remote,7
+1128,United States,90000,20,0,0,10000,Not remote,9
+1129,United States,180000,12,0,1,1,Remote,10
+1130,United States,156000,9,1,1,100,Remote,7
+1131,Canada,83333.3333333333,6,1,0,100,Not remote,8
+1132,United States,153000,20,0,1,100,Not remote,9
+1133,Canada,14393.9393939394,1,0,0,1,Not remote,7
+1134,United States,75000,20,0,1,500,Not remote,8
+1135,Canada,49242.4242424242,15,0,1,10000,Not remote,8
+1136,United States,80000,13,1,1,1,Not remote,7
+1137,United States,130000,3,1,1,10,Not remote,8
+1138,India,4551.46087211863,2,0,1,1000,Not remote,9
+1139,India,8456.90794303333,5,1,1,10,Not remote,8
+1140,India,4404.63955366319,2,0,1,10,Not remote,10
+1141,India,18352.66480693,4,0,1,10000,Not remote,4
+1142,United States,113000,8,1,1,100,Not remote,7
+1143,Germany,46774.1935483871,6,1,1,20,Not remote,7
+1144,United States,93000,6,0,0,10000,Not remote,7
+1145,India,11745.7054764352,5,1,1,1000,Not remote,7
+1146,United States,153000,9,0,0,1000,Not remote,6
+1147,Germany,58924.7311827957,7,0,1,500,Not remote,7
+1148,Germany,59139.7849462366,9,0,1,1000,Not remote,8
+1149,United Kingdom,68750,7,1,1,20,Remote,8
+1150,India,4404.63955366319,2,0,0,10,Not remote,5
+1151,India,6166.49537512847,1,1,1,20,Not remote,6
+1152,Germany,53763.4408602151,5,1,1,20,Not remote,8
+1153,United Kingdom,58750,13,0,1,5000,Not remote,6
+1154,United Kingdom,62500,3,1,1,20,Not remote,8
+1155,United Kingdom,38750,1,0,0,5000,Not remote,8
+1156,Germany,4838.70967741935,9,1,0,20,Not remote,10
+1157,United Kingdom,65000,13,1,1,100,Not remote,7
+1158,United Kingdom,42000,3,1,1,5000,Not remote,8
+1159,India,13580.9719571282,8,0,1,10000,Not remote,8
+1160,United Kingdom,35000,4,0,0,10,Not remote,5
+1161,United Kingdom,27500,2,0,1,100,Not remote,6
+1162,United Kingdom,137500,18,0,0,1000,Not remote,7
+1163,United Kingdom,100000,20,0,1,20,Not remote,8
+1164,United Kingdom,48125,5,0,1,20,Not remote,6
+1165,United Kingdom,71250,9,0,1,1,Not remote,9
+1166,United Kingdom,46875,5,0,1,10000,Not remote,7
+1167,Germany,23655.9139784946,2,0,0,100,Not remote,6
+1168,United Kingdom,45454.5454545455,18,0,0,20,Not remote,6
+1169,United Kingdom,50000,4,0,1,1,Not remote,7
+1170,Germany,62365.5913978495,6,0,0,1000,Not remote,7
+1171,United Kingdom,65000,9,0,0,10000,Not remote,9
+1172,India,6753.78064895023,4,0,0,100,Not remote,6
+1173,United States,87000,19,1,1,10000,Not remote,8
+1174,United Kingdom,30000,1,1,1,10,Not remote,10
+1175,United Kingdom,68750,16,0,1,1,Not remote,6
+1176,India,4404.63955366319,0,1,1,10,Not remote,10
+1177,Germany,38709.6774193548,4,1,1,20,Not remote,8
+1178,United States,103000,17,1,1,100,Not remote,8
+1179,United States,109720,12,0,1,10000,Remote,10
+1180,United States,25000,1,0,1,100,Not remote,7
+1181,India,13948.0252532668,1,1,1,100,Not remote,6
+1182,Germany,59139.7849462366,11,0,1,1000,Not remote,6
+1183,United States,85000,6,0,1,10000,Not remote,7
+1184,Germany,64516.1290322581,20,0,0,20,Not remote,6
+1185,Germany,48387.0967741935,5,0,1,1,Not remote,9
+1186,United Kingdom,50000,4,0,1,10,Not remote,6
+1187,United States,60000,2,0,1,20,Not remote,8
+1188,Canada,79545.4545454545,17,0,1,1,Remote,8
+1189,Canada,47727.2727272727,2,0,0,100,Not remote,7
+1190,United States,93000,20,0,1,20,Not remote,9
+1191,United Kingdom,41250,6,0,1,10,Not remote,8
+1192,United States,110000,10,0,1,20,Not remote,7
+1193,Germany,43010.752688172,4,1,1,1,Not remote,7
+1194,United States,135000,15,1,1,100,Remote,8
+1195,United States,95000,4,0,0,500,Not remote,7
+1196,Canada,30303.0303030303,9,1,1,1,Not remote,5
+1197,United Kingdom,62500,14,0,1,10,Remote,7
+1198,Canada,53030.303030303,7,0,0,1,Not remote,10
+1199,United States,170000,20,1,1,100,Not remote,10
+1200,United States,132000,10,0,0,10000,Not remote,10
+1201,United States,111000,10,0,0,100,Remote,6
+1202,United States,100000,8,0,1,20,Not remote,8
+1203,United States,136200,8,0,0,100,Not remote,10
+1204,United States,79900,5,0,0,20,Not remote,9
+1205,United States,104000,4,0,1,5000,Not remote,8
+1206,United States,124000,2,1,1,100,Not remote,10
+1207,Germany,67741.935483871,6,0,0,100,Not remote,8
+1208,United Kingdom,56250,13,0,1,20,Not remote,7
+1209,United States,87500,4,1,1,1000,Not remote,7
+1210,United States,70000,4,0,1,10000,Not remote,6
+1211,United States,76000,2,0,0,5000,Not remote,9
+1212,United States,62000,1,0,0,100,Not remote,7
+1213,United States,130000,4,0,1,100,Not remote,7
+1214,Canada,37878.7878787879,5,0,1,100,Not remote,7
+1215,United States,150000,2,0,1,1000,Not remote,10
+1216,United States,151000,20,0,1,10000,Not remote,5
+1217,Canada,49242.4242424242,5,1,1,20,Not remote,10
+1218,Germany,50322.5806451613,9,0,0,100,Not remote,8
+1219,United States,65000,3,0,1,10,Not remote,7
+1220,United States,114000,10,0,0,500,Not remote,10
+1221,United States,70000,3,0,1,500,Not remote,7
+1222,United States,118000,6,1,0,10000,Not remote,8
+1223,Germany,52258.064516129,1,0,1,100,Not remote,8
+1224,United States,120000,5,1,1,10000,Not remote,10
+1225,Canada,60606.0606060606,4,1,1,100,Not remote,8
+1226,United States,130000,17,0,1,1000,Remote,7
+1227,Canada,94696.9696969697,5,0,1,100,Not remote,7
+1228,United States,81000,3,0,1,1000,Not remote,6
+1229,United States,105000,20,0,1,1000,Not remote,8
+1230,United States,100000,20,0,0,500,Not remote,5
+1231,United States,100000,18,0,0,1000,Not remote,9
+1232,United States,70000,1,0,1,100,Not remote,8
+1233,United States,120000,4,0,1,20,Not remote,8
+1234,United States,145000,4,0,0,20,Not remote,7
+1235,United States,120000,20,1,1,100,Remote,10
+1236,United States,114000,20,0,1,1000,Not remote,7
+1237,United States,50000,2,0,1,20,Not remote,9
+1238,United States,42500,5,0,1,10,Not remote,8
+1239,United States,112000,20,1,1,1000,Remote,8
+1240,Canada,112878.787878788,20,0,1,10000,Remote,9
+1241,United Kingdom,106250,13,0,1,5000,Not remote,8
+1242,United States,55000,1,0,1,20,Not remote,9
+1243,Canada,70454.5454545455,13,1,1,20,Not remote,7
+1244,United States,90000,8,1,0,100,Remote,8
+1245,United States,90000,4,0,1,10000,Not remote,8
+1246,United States,130000,12,0,1,100,Not remote,6
+1247,United States,57000,1,0,1,1000,Not remote,9
+1248,United States,70000,2,1,1,100,Not remote,6
+1249,United States,125000,12,0,1,10000,Not remote,9
+1250,United States,67000,4,1,1,1,Not remote,9
+1251,United Kingdom,41250,1,0,1,100,Not remote,7
+1252,India,5505.79944207899,1,0,0,10000,Not remote,3
+1253,United States,95000,15,0,1,1000,Not remote,8
+1254,United States,120000,15,0,1,10000,Not remote,9
+1255,Canada,69696.9696969697,20,0,1,100,Not remote,8
+1256,United States,65000,13,0,1,100,Not remote,3
+1257,United States,95000,2,0,1,100,Not remote,8
+1258,United States,67500,3,0,1,10000,Not remote,9
+1259,United Kingdom,47625,9,0,0,10,Not remote,3
+1260,United States,50000,1,0,1,1,Not remote,10
+1261,United States,109000,15,0,1,100,Not remote,9
+1262,United States,77000,3,1,1,10000,Not remote,6
+1263,United States,83000,8,0,0,1000,Not remote,7
+1264,United States,134000,2,0,1,1000,Not remote,8
+1265,United States,150000,12,0,1,100,Not remote,5
+1266,United States,83000,3,0,0,1000,Remote,7
+1267,United States,104000,12,1,0,5000,Remote,9
+1268,United States,125000,7,1,1,10,Remote,8
+1269,United States,135000,15,0,1,10,Not remote,9
+1270,Canada,69696.9696969697,10,1,1,100,Not remote,6
+1271,United States,63750,4,0,1,20,Remote,8
+1272,United States,135000,9,0,1,10000,Not remote,9
+1273,United States,150000,15,1,1,10000,Not remote,8
+1274,United States,100000,9,1,1,20,Not remote,3
+1275,United States,63000,2,0,0,10,Not remote,8
+1276,United States,78000,10,0,1,20,Not remote,8
+1277,United States,140000,8,0,0,1000,Not remote,8
+1278,United States,137500,10,0,0,100,Remote,9
+1279,United States,68040,2,1,0,100,Not remote,6
+1280,India,35971.2230215827,10,1,1,10000,Not remote,10
+1281,United States,120000,5,0,1,5000,Remote,6
+1282,United States,65000,3,0,0,1000,Not remote,8
+1283,United States,116000,12,0,0,500,Not remote,7
+1284,United States,175000,17,1,1,500,Not remote,9
+1285,Canada,30303.0303030303,6,0,1,1,Remote,7
+1286,United States,95000,1,1,1,100,Not remote,7
+1287,United States,120000,5,1,1,20,Remote,7
+1288,United States,60000,8,1,0,20,Remote,6
+1289,United States,123000,4,1,1,10000,Not remote,7
+1290,United States,95000,20,0,0,10,Remote,9
+1291,United States,73400,9,0,1,1000,Not remote,4
+1292,Canada,98484.8484848485,8,1,1,100,Not remote,8
+1293,United States,75000,20,0,1,500,Not remote,6
+1294,United States,51200,1,0,1,500,Not remote,8
+1295,India,6166.49537512847,2,1,0,10000,Not remote,4
+1296,India,13213.9186609896,6,0,1,10000,Not remote,8
+1297,Canada,98484.8484848485,16,1,1,5000,Not remote,10
+1298,United States,100000,3,0,1,20,Not remote,8
+1299,Canada,90909.0909090909,5,0,1,20,Remote,7
+1300,United States,135000,17,0,0,10,Not remote,7
+1301,United States,108000,6,0,0,10000,Not remote,8
+1302,United States,32000,2,0,1,10,Not remote,5
+1303,United States,142000,3,1,1,10000,Not remote,8
+1304,United States,92000,3,0,1,100,Remote,6
+1305,United States,110000,5,0,1,10,Not remote,8
+1306,Germany,55913.9784946237,7,1,1,500,Not remote,9
+1307,United States,115000,10,1,1,20,Not remote,10
+1308,India,29364.2636910879,3,0,0,10,Not remote,7
+1309,Germany,65591.3978494624,17,0,1,20,Not remote,7
+1310,United States,130000,20,0,1,100,Not remote,3
+1311,United Kingdom,78750,20,0,1,20,Not remote,6
+1312,United States,100000,3,1,0,500,Not remote,7
+1313,United Kingdom,78750,10,0,1,10000,Not remote,7
+1314,India,10277.4922918808,3,1,1,10000,Not remote,3
+1315,United Kingdom,87500,6,1,1,20,Not remote,7
+1316,Germany,46236.5591397849,10,0,1,100,Not remote,7
+1317,Germany,50322.5806451613,8,0,1,100,Not remote,4
+1318,Germany,32258.064516129,1,0,0,1,Not remote,7
+1319,United Kingdom,32500,4,0,1,10000,Not remote,7
+1320,United Kingdom,40600,3,1,1,100,Not remote,8
+1321,Germany,91397.8494623656,10,0,1,1000,Not remote,2
+1322,Germany,48924.7311827957,8,0,1,100,Not remote,8
+1323,India,17618.5582146528,2,1,1,20,Not remote,10
+1324,United Kingdom,43750,4,0,1,100,Not remote,7
+1325,Germany,34408.6021505376,1,0,1,1,Not remote,1
+1326,United Kingdom,46250,3,0,1,100,Not remote,9
+1327,United Kingdom,56375,15,0,1,100,Not remote,8
+1328,United Kingdom,33125,1,0,1,100,Not remote,7
+1329,United States,130000,10,0,0,20,Remote,10
+1330,United Kingdom,35000,1,0,1,100,Not remote,8
+1331,United Kingdom,62500,6,0,0,20,Not remote,7
+1332,United States,60000,1,1,0,500,Not remote,5
+1333,Germany,5161.29032258064,2,0,1,5000,Not remote,8
+1334,United Kingdom,80000,7,0,0,1000,Not remote,7
+1335,India,3817.35427984143,2,1,0,20,Remote,7
+1336,United Kingdom,54545.4545454545,3,1,1,10000,Not remote,8
+1337,Germany,55913.9784946237,3,0,0,100,Not remote,8
+1338,Germany,45161.2903225806,9,1,1,500,Not remote,10
+1339,India,2114.22698575833,2,0,0,10000,Not remote,6
+1340,Germany,48387.0967741935,3,1,1,20,Not remote,10
+1341,United States,120000,10,0,1,20,Not remote,8
+1342,Germany,20000,4,0,0,10,Remote,8
+1343,United Kingdom,43750,1,0,1,20,Not remote,8
+1344,Germany,91397.8494623656,20,0,1,500,Not remote,8
+1345,India,14682.131845544,5,0,1,100,Not remote,7
+1346,Canada,50504.5454545454,4,1,0,10000,Not remote,8
+1347,India,7341.06592277199,6,1,0,100,Not remote,6
+1348,Germany,43010.752688172,7,0,1,20,Not remote,7
+1349,India,17618.5582146528,8,1,1,500,Not remote,6
+1350,India,19086.7713992072,6,1,1,500,Not remote,5
+1351,Germany,59139.7849462366,10,0,0,100,Not remote,6
+1352,United States,125000,13,1,1,10000,Remote,10
+1353,United States,120000,9,1,1,100,Remote,9
+1354,United States,63000,1,0,1,100,Not remote,7
+1355,United States,86000,9,0,1,10000,Not remote,10
+1356,Canada,61818.1818181818,9,0,1,100,Not remote,9
+1357,Germany,64516.1290322581,10,1,1,10000,Not remote,8
+1358,United Kingdom,52500,3,1,1,20,Not remote,9
+1359,United States,90000,4,0,1,100,Not remote,10
+1360,United States,85000,2,0,1,10000,Not remote,9
+1361,United States,117000,3,1,1,1000,Not remote,8
+1362,Germany,69892.4731182796,5,0,1,10000,Not remote,10
+1363,United States,100000,8,0,1,10000,Not remote,8
+1364,United States,111000,6,0,1,100,Not remote,8
+1365,United States,130000,15,1,1,10,Not remote,8
+1366,United States,65000,1,1,1,100,Not remote,10
+1367,United States,120000,11,1,1,500,Not remote,9
+1368,United States,92000,15,0,0,100,Not remote,8
+1369,United Kingdom,58750,17,0,0,100,Not remote,7
+1370,United States,43000,4,1,1,1,Not remote,9
+1371,United States,137500,18,1,1,10000,Not remote,9
+1372,United States,160000,12,1,1,500,Not remote,8
+1373,United States,100780,16,0,1,1000,Not remote,4
+1374,United States,100000,5,0,0,1,Not remote,8
+1375,India,10277.4922918808,4,1,1,5000,Not remote,7
+1376,United States,135000,8,1,0,100,Remote,9
+1377,United States,85000,8,1,1,500,Not remote,8
+1378,United States,115000,19,1,1,100,Remote,8
+1379,Germany,64516.1290322581,9,1,1,20,Not remote,9
+1380,Germany,49032.2580645161,10,1,1,10,Not remote,8
+1381,United Kingdom,70000,2,0,1,10000,Remote,9
+1382,United States,130000,12,1,1,1000,Not remote,8
+1383,United States,51250,4,0,1,20,Not remote,5
+1384,United States,98500,3,0,1,10000,Not remote,7
+1385,United States,47800,4,1,1,500,Not remote,7
+1386,United States,113000,14,1,1,100,Remote,6
+1387,United States,120000,11,0,1,1000,Not remote,6
+1388,United States,56000,4,1,1,100,Remote,7
+1389,Canada,37878.7878787879,2,0,1,100,Not remote,7
+1390,United Kingdom,18750,2,0,1,100,Not remote,10
+1391,Germany,55913.9784946237,3,1,1,20,Not remote,9
+1392,United States,60000,3,0,1,1000,Not remote,9
+1393,United States,116000,20,0,0,20,Not remote,8
+1394,Germany,62365.5913978495,1,1,1,10000,Not remote,7
+1395,United States,80000,1,0,1,1000,Not remote,9
+1396,United States,60000,3,0,1,100,Not remote,8
+1397,United States,50000,1,0,1,20,Not remote,6
+1398,United States,80000,7,0,0,20,Not remote,0
+1399,United Kingdom,33747.5,3,1,1,1000,Not remote,8
+1400,United States,110000,11,0,1,100,Not remote,10
+1401,Germany,47311.8279569892,4,0,1,20,Not remote,9
+1402,Canada,64393.9393939394,15,0,1,1000,Not remote,7
+1403,Canada,69696.9696969697,18,1,1,20,Not remote,9
+1404,Germany,12903.2258064516,4,0,1,1,Not remote,9
+1405,United States,70000,10,0,1,100,Not remote,6
+1406,United States,85000,15,0,1,1000,Not remote,8
+1407,India,7341.06592277199,1,0,1,10,Not remote,6
+1408,India,36705.3296138599,6,0,0,1000,Not remote,8
+1409,Canada,41666.6666666667,2,0,1,100,Not remote,7
+1410,United States,160000,20,1,0,5000,Not remote,10
+1411,India,2128.90911760388,1,0,1,10,Remote,8
+1412,Germany,139784.946236559,17,0,1,500,Remote,7
+1413,Canada,69696.9696969697,6,1,0,20,Not remote,8
+1414,United States,42000,4,1,1,10,Not remote,8
+1415,United Kingdom,58750,3,0,1,100,Remote,8
+1416,United States,92500,10,0,1,20,Not remote,3
+1417,Canada,71969.696969697,2,0,1,100,Not remote,8
+1418,United States,51312,1,1,1,100,Not remote,8
+1419,United States,52500,1,0,1,1,Not remote,1
+1420,United States,118000,9,1,0,1,Remote,10
+1421,Canada,98484.8484848485,2,1,1,1000,Not remote,7
+1422,United States,75000,2,1,1,500,Not remote,9
+1423,United States,60000,16,0,0,100,Not remote,9
+1424,United States,66000,5,0,1,1000,Not remote,8
+1425,United States,95000,20,1,1,10000,Not remote,9
+1426,United States,146600,20,1,1,100,Not remote,7
+1427,Germany,35483.8709677419,1,1,1,20,Not remote,9
+1428,United Kingdom,56250,11,0,0,100,Not remote,7
+1429,United States,95000,2,0,1,20,Not remote,10
+1430,United States,85000,1,0,0,10,Not remote,8
+1431,Canada,56060.6060606061,7,1,0,20,Not remote,9
+1432,United States,115000,20,0,0,20,Remote,8
+1433,United States,106000,12,0,0,500,Not remote,8
+1434,United States,70000,6,0,1,10,Not remote,7
+1435,Canada,37878.7878787879,4,0,1,1,Not remote,10
+1436,United States,62500,2,1,1,20,Not remote,9
+1437,United States,112200,12,0,1,10000,Not remote,8
+1438,Germany,48387.0967741935,4,1,0,1,Not remote,7
+1439,United States,34000,1,0,0,100,Not remote,7
+1440,United States,106500,2,1,1,100,Not remote,8
+1441,United States,120000,13,1,1,20,Not remote,4
+1442,Germany,64516.1290322581,9,0,1,10,Not remote,10
+1443,United States,125000,18,0,0,5000,Not remote,8
+1444,United States,60000,4,0,1,1,Not remote,7
+1445,United States,90000,1,0,1,20,Not remote,9
+1446,United States,107000,4,0,1,100,Not remote,8
+1447,United States,105000,5,1,1,100,Remote,8
+1448,United States,127000,20,1,1,20,Not remote,9
+1449,United States,82000,9,0,1,100,Not remote,3
+1450,United States,55000,2,0,1,20,Not remote,10
+1451,United States,52000,1,0,1,1,Not remote,6
+1452,United States,160000,16,1,1,100,Remote,8
+1453,United States,130000,9,1,1,100,Not remote,10
+1454,United States,130000,16,1,1,20,Remote,9
+1455,Canada,56818.1818181818,5,0,0,20,Not remote,6
+1456,United States,110000,3,1,1,20,Not remote,8
+1457,United States,170000,14,0,1,100,Not remote,7
+1458,United States,52000,0,0,1,20,Not remote,10
+1459,United States,120000,3,1,1,1000,Not remote,9
+1460,Canada,54545.4545454545,3,0,0,5000,Not remote,8
+1461,United Kingdom,60000,2,0,1,20,Not remote,7
+1462,United States,90000,4,0,1,1000,Not remote,9
+1463,United States,111000,9,0,0,10000,Not remote,5
+1464,Canada,45454.5454545455,2,0,1,100,Not remote,9
+1465,United States,130000,9,0,1,10000,Not remote,10
+1466,United States,31000,2,1,1,1,Not remote,4
+1467,United States,125000,20,1,1,10000,Remote,8
+1468,United States,140000,3,0,1,10000,Not remote,7
+1469,United States,108000,3,1,1,100,Not remote,8
+1470,United States,75000,1,0,1,500,Not remote,7
+1471,United States,141000,9,1,1,20,Remote,10
+1472,United States,160000,14,0,1,10,Not remote,8
+1473,United States,85000,3,1,1,1,Not remote,8
+1474,United States,100000,5,0,1,10,Not remote,8
+1475,United States,112000,15,1,0,10,Remote,8
+1476,United States,117500,4,0,1,100,Not remote,8
+1477,United States,90000,2,0,1,20,Remote,7
+1478,United States,80000,1,0,0,20,Not remote,7
+1479,India,8809.27910732638,4,1,1,20,Remote,8
+1480,United States,30000,2,1,1,100,Not remote,9
+1481,United States,149000,13,1,1,10000,Not remote,9
+1482,United States,130000,3,1,1,20,Not remote,8
+1483,Canada,42424.2424242424,6,1,1,20,Not remote,9
+1484,United States,135000,2,1,1,100,Not remote,10
+1485,United States,104000,2,0,1,10000,Not remote,7
+1486,United States,130000,3,0,0,100,Not remote,6
+1487,United States,140000,4,1,1,1,Not remote,7
+1488,United States,87500,2,0,1,1000,Not remote,8
+1489,United States,31500,2,0,0,10,Not remote,8
+1490,United States,160000,20,1,0,10,Not remote,9
+1491,India,8809.27910732638,2,1,1,100,Not remote,6
+1492,United States,120000,14,0,0,10,Not remote,7
+1493,Germany,53763.4408602151,5,1,1,10000,Not remote,6
+1494,India,37878.7878787879,2,0,1,10,Remote,10
+1495,United States,104000,2,1,1,100,Not remote,10
+1496,Germany,68817.2043010753,3,0,0,10000,Not remote,9
+1497,United States,111800,4,1,1,1000,Not remote,7
+1498,Canada,90500,10,0,0,100,Not remote,9
+1499,India,19820.8779914844,4,1,1,100,Not remote,8
+1500,India,11011.598884158,5,0,1,100,Not remote,4
+1501,India,23491.4256350022,4,1,1,100,Not remote,7
+1502,United Kingdom,52500,20,0,1,1,Remote,10
+1503,India,2114.22698575833,1,0,1,20,Not remote,9
+1504,Germany,39139.7849462366,3,0,1,5000,Not remote,8
+1505,India,7047.42328586111,1,1,1,20,Not remote,10
+1506,United Kingdom,33750,4,0,0,100,Not remote,8
+1507,Germany,97674.1935483871,12,1,1,20,Remote,8
+1508,United Kingdom,36250,2,0,0,10,Not remote,8
+1509,India,5285.56746439583,1,1,1,1,Not remote,9
+1510,India,6695.05212156805,3,1,0,10,Not remote,3
+1511,United States,106000,2,0,1,1000,Not remote,9
+1512,United Kingdom,25000,1,0,1,20,Not remote,9
+1513,United States,113500,5,1,1,20,Remote,10
+1514,United Kingdom,65625,3,1,1,20,Not remote,8
+1515,Germany,64516.1290322581,6,0,1,20,Not remote,7
+1516,United States,45000,1,0,1,20,Not remote,10
+1517,United States,100000,9,0,1,20,Remote,8
+1518,United States,88400,14,0,1,20,Not remote,9
+1519,United Kingdom,75000,20,1,1,10000,Remote,10
+1520,United States,91707,13,0,0,1000,Remote,8
+1521,United States,54000,7,0,1,10000,Not remote,8
+1522,India,10277.4922918808,2,0,0,20,Not remote,7
+1523,Germany,41290.3225806452,5,0,1,20,Not remote,5
+1524,United States,46000,3,0,1,10,Not remote,8
+1525,United States,100000,4,1,1,10,Not remote,5
+1526,Germany,2365.59139784946,4,0,1,20,Not remote,8
+1527,Canada,62878.7878787879,4,1,1,10000,Not remote,10
+1528,United States,35000,2,0,1,100,Not remote,9
+1529,United Kingdom,68750,17,0,0,1000,Not remote,5
+1530,Canada,79545.4545454545,20,1,1,5000,Not remote,8
+1531,United States,62000,6,0,1,100,Not remote,9
+1532,United States,95000,14,0,0,20,Remote,6
+1533,Germany,67204.3010752688,7,1,1,10,Not remote,8
+1534,United States,150000,14,0,0,20,Not remote,5
+1535,Canada,37878.7878787879,5,0,1,20,Not remote,7
+1536,United States,75000,1,0,1,1000,Not remote,8
+1537,United States,128000,20,0,1,10000,Not remote,7
+1538,United States,76500,1,0,1,100,Not remote,7
+1539,United Kingdom,42500,10,0,0,20,Not remote,6
+1540,United Kingdom,81250,3,0,1,100,Not remote,8
+1541,United States,60000,1,0,1,100,Not remote,7
+1542,United States,65000,0,0,0,20,Not remote,7
+1543,United States,66000,2,0,1,100,Not remote,8
+1544,Canada,45454.5454545455,1,0,1,10,Not remote,9
+1545,United States,75000,3,0,1,20,Not remote,6
+1546,United States,116500,13,0,1,10000,Not remote,9
+1547,United States,120000,6,0,1,100,Not remote,8
+1548,Canada,42424.2424242424,1,0,1,100,Not remote,7
+1549,India,1908.67713992072,1,0,1,1000,Not remote,6
+1550,United States,150000,20,0,1,20,Not remote,10
+1551,United States,78000,3,1,1,1,Remote,7
+1552,United States,45000,3,1,1,20,Not remote,9
+1553,Canada,83333.3333333333,20,0,1,10,Not remote,7
+1554,Canada,47727.2727272727,4,0,1,500,Not remote,6
+1555,United States,173300,6,1,1,100,Not remote,9
+1556,United States,75000,4,1,0,10000,Not remote,3
+1557,United Kingdom,58750,13,1,1,1000,Not remote,9
+1558,United States,120000,20,0,0,10,Not remote,10
+1559,United States,80000,10,0,1,100,Not remote,8
+1560,United States,135000,7,1,1,100,Not remote,7
+1561,United States,114000,8,0,1,100,Remote,8
+1562,United States,130000,17,0,0,100,Not remote,9
+1563,United States,86000,2,0,1,10000,Not remote,2
+1564,United States,120000,20,1,0,1000,Not remote,7
+1565,Germany,55913.9784946237,3,0,1,10000,Not remote,5
+1566,United States,75000,1,0,1,5000,Not remote,7
+1567,United States,110000,12,1,1,1,Remote,10
+1568,United States,145000,11,0,0,10000,Not remote,9
+1569,Germany,48387.0967741935,2,1,1,20,Not remote,8
+1570,United States,90000,5,1,1,20,Not remote,9
+1571,United Kingdom,75000,13,0,0,1,Not remote,8
+1572,United States,85000,9,1,1,1,Not remote,6
+1573,United States,85000,6,1,1,100,Not remote,8
+1574,United States,60000,2,1,0,20,Not remote,10
+1575,United States,72480,6,1,1,20,Not remote,5
+1576,Canada,54545.4545454545,10,0,0,10000,Not remote,8
+1577,United States,95000,12,1,0,20,Not remote,9
+1578,United States,124000,1,0,1,100,Not remote,8
+1579,United States,165000,12,1,1,10000,Not remote,10
+1580,United States,147000,6,1,1,10,Not remote,8
+1581,United States,72500,1,0,1,20,Not remote,8
+1582,Canada,121212.121212121,14,1,1,1,Remote,7
+1583,Germany,87204.3010752688,17,1,1,100,Not remote,7
+1584,United States,142000,13,0,1,1000,Not remote,8
+1585,United States,110000,10,1,1,100,Not remote,7
+1586,United States,113000,16,0,1,500,Not remote,8
+1587,Canada,60606.0606060606,15,0,0,100,Not remote,9
+1588,United States,117000,13,1,1,100,Not remote,9
+1589,United States,125000,10,0,0,1000,Not remote,7
+1590,United States,115000,13,1,1,1,Remote,10
+1591,Canada,50757.5757575758,10,0,1,100,Not remote,9
+1592,Germany,48387.0967741935,1,0,1,100,Not remote,8
+1593,United States,100000,20,0,0,1,Not remote,7
+1594,United States,42262,3,0,1,100,Not remote,6
+1595,United States,121000,5,0,1,100,Not remote,8
+1596,United States,192000,20,1,1,1000,Remote,9
+1597,United States,105000,6,0,1,5000,Not remote,8
+1598,United Kingdom,52500,5,0,1,10,Not remote,10
+1599,United States,138000,12,0,1,100,Not remote,7
+1600,United States,160000,20,0,0,100,Not remote,10
+1601,United Kingdom,50000,6,0,1,100,Not remote,10
+1602,United States,126680,15,0,0,5000,Not remote,8
+1603,United States,74000,2,0,0,10000,Not remote,8
+1604,United States,153000,10,1,0,100,Not remote,9
+1605,United States,55000,1,0,1,100,Not remote,9
+1606,Germany,32258.064516129,2,0,1,1,Not remote,5
+1607,United Kingdom,48620,1,0,1,10000,Not remote,8
+1608,United States,105000,2,1,1,10000,Remote,10
+1609,United Kingdom,21250,2,0,1,10000,Not remote,9
+1610,United States,111000,17,0,1,10,Not remote,8
+1611,Canada,46969.696969697,16,0,0,10000,Not remote,9
+1612,United States,87000,5,0,1,100,Not remote,10
+1613,United States,74000,1,0,1,10000,Not remote,9
+1614,Germany,56989.247311828,5,0,1,1000,Not remote,9
+1615,United States,84000,6,0,1,100,Not remote,7
+1616,Canada,26515.1515151515,2,1,1,1,Not remote,9
+1617,United States,60000,1,0,1,20,Not remote,9
+1618,United States,60000,6,1,1,1,Not remote,7
+1619,Canada,76515.1515151515,14,0,1,1000,Not remote,9
+1620,United States,60000,2,0,1,1,Not remote,9
+1621,United States,172000,12,0,1,10000,Not remote,7
+1622,Canada,100378.787878788,13,1,1,100,Not remote,8
+1623,United States,70000,1,0,1,20,Not remote,6
+1624,Canada,61328.7878787879,11,0,1,100,Not remote,8
+1625,Canada,56818.1818181818,11,1,1,100,Not remote,10
+1626,United States,95000,7,0,1,10,Not remote,8
+1627,Germany,60215.0537634409,3,0,1,1000,Not remote,9
+1628,United Kingdom,46250,15,1,1,10,Not remote,7
+1629,Canada,45454.5454545455,9,0,1,100,Not remote,7
+1630,United States,57000,2,0,0,500,Not remote,6
+1631,United States,129000,10,0,1,10000,Not remote,8
+1632,United States,80000,20,1,1,1,Remote,10
+1633,United States,93000,4,1,1,10000,Not remote,7
+1634,Germany,64516.1290322581,7,1,1,100,Not remote,5
+1635,Germany,140000,8,1,1,20,Remote,6
+1636,Canada,60606.0606060606,4,1,1,20,Not remote,10
+1637,United Kingdom,50000,3,0,1,100,Not remote,8
+1638,United States,117000,16,0,1,20,Remote,8
+1639,United States,110000,10,0,0,1000,Remote,8
+1640,United States,140000,20,1,1,1,Not remote,9
+1641,United States,80000,3,1,1,1000,Not remote,3
+1642,United States,72000,4,0,1,10,Not remote,8
+1643,United States,90000,4,0,1,1000,Not remote,8
+1644,United States,110000,9,0,0,100,Not remote,8
+1645,Canada,41666.6666666667,3,0,1,100,Not remote,9
+1646,United States,166500,17,1,1,500,Not remote,7
+1647,United States,150000,6,0,0,100,Not remote,8
+1648,Germany,53763.4408602151,5,0,1,10000,Not remote,10
+1649,United States,115000,10,0,1,5000,Not remote,8
+1650,United States,120000,3,0,0,1000,Not remote,5
+1651,United States,50000,2,1,1,10,Not remote,7
+1652,United Kingdom,57500,7,0,0,100,Not remote,8
+1653,Canada,49242.4242424242,2,0,1,500,Not remote,9
+1654,United States,150000,13,0,0,500,Not remote,8
+1655,United States,56000,1,0,0,1000,Not remote,8
+1656,Canada,60606.0606060606,11,0,1,1,Not remote,8
+1657,Germany,50537.6344086021,8,0,0,1000,Not remote,8
+1658,United States,129000,5,0,0,10000,Not remote,8
+1659,United States,130000,5,0,1,10000,Not remote,5
+1660,United States,72000,4,0,0,10,Not remote,6
+1661,United States,90000,5,0,0,1,Not remote,7
+1662,United States,113000,1,1,1,10000,Not remote,5
+1663,Germany,92473.1182795699,14,0,1,500,Not remote,7
+1664,United States,115000,9,0,1,20,Remote,7
+1665,Germany,41290.3225806452,4,0,1,20,Remote,8
+1666,United Kingdom,62500,4,0,0,100,Not remote,5
+1667,Canada,68181.8181818182,8,0,1,100,Not remote,8
+1668,United Kingdom,58750,3,1,1,10000,Not remote,10
+1669,United States,120000,9,0,0,1000,Not remote,8
+1670,United States,105000,11,0,1,20,Not remote,8
+1671,United States,155000,13,0,1,100,Not remote,9
+1672,Germany,38709.6774193548,7,1,0,1,Not remote,7
+1673,United Kingdom,62500,3,0,1,20,Not remote,8
+1674,Germany,77419.3548387097,15,0,1,20,Not remote,9
+1675,Germany,33333.3333333333,2,0,1,100,Not remote,6
+1676,United States,48000,5,0,1,1000,Not remote,7
+1677,United States,126000,10,0,1,1,Not remote,6
+1678,United States,102000,15,0,0,100,Remote,10
+1679,United States,110000,20,0,1,5000,Not remote,10
+1680,United States,110000,7,0,1,100,Remote,9
+1681,United States,110000,2,1,1,100,Not remote,8
+1682,United States,70000,1,0,0,100,Not remote,10
+1683,United States,150000,20,1,1,10000,Not remote,10
+1684,United States,58420,9,0,0,100,Not remote,8
+1685,United States,105000,1,0,1,500,Not remote,8
+1686,United States,115000,3,1,1,500,Not remote,5
+1687,United States,98000,5,0,1,1000,Not remote,7
+1688,United Kingdom,62500,20,0,0,10000,Not remote,8
+1689,United States,69200,2,0,1,10000,Not remote,7
+1690,Germany,55913.9784946237,2,0,1,20,Remote,9
+1691,United States,188000,20,1,0,10000,Not remote,10
+1692,United States,128500,15,1,0,10,Remote,10
+1693,Germany,77419.3548387097,16,0,1,100,Not remote,8
+1694,United States,110000,1,0,1,500,Not remote,8
+1695,United States,187500,6,1,1,10,Not remote,10
+1696,United States,150000,17,0,1,1000,Remote,8
+1697,United States,170000,12,1,1,100,Remote,10
+1698,Canada,45454.5454545455,6,1,1,100,Not remote,7
+1699,United States,88000,9,1,0,100,Not remote,7
+1700,United States,100000,3,0,1,100,Not remote,7
+1701,United States,130000,2,0,1,500,Not remote,8
+1702,Canada,56818.1818181818,7,0,1,10,Remote,9
+1703,United States,95000,5,0,1,500,Not remote,9
+1704,United States,85000,2,0,1,1000,Not remote,7
+1705,Germany,45161.2903225806,15,1,1,10,Not remote,8
+1706,Canada,45454.5454545455,2,0,0,1,Not remote,7
+1707,United States,145000,9,1,1,100,Remote,10
+1708,United States,58000,2,0,1,10,Not remote,7
+1709,United States,175000,13,1,1,500,Not remote,8
+1710,United States,77000,1,0,1,100,Not remote,7
+1711,United States,145600,19,0,1,20,Not remote,8
+1712,United States,98000,7,0,1,100,Remote,9
+1713,United States,90000,7,1,0,20,Remote,6
+1714,United States,81000,7,0,0,1000,Not remote,4
+1715,United Kingdom,48750,13,0,1,20,Not remote,7
+1716,United Kingdom,41250,3,0,1,20,Not remote,8
+1717,Canada,59090.9090909091,5,0,1,500,Not remote,8
+1718,United States,97500,9,0,1,10,Not remote,9
+1719,United States,63000,1,1,1,5000,Not remote,8
+1720,United States,80000,3,0,1,10000,Not remote,10
+1721,United States,110000,1,0,1,100,Not remote,8
+1722,United States,40000,13,0,0,1,Not remote,5
+1723,United States,105000,8,1,1,20,Remote,10
+1724,United States,93000,6,1,1,10000,Not remote,6
+1725,United States,145000,11,0,0,100,Not remote,9
+1726,United States,119000,17,0,1,10000,Not remote,7
+1727,United States,70000,1,0,1,20,Not remote,5
+1728,United States,111000,3,0,0,10000,Not remote,9
+1729,United States,130000,19,0,1,100,Remote,6
+1730,United States,175000,20,1,0,5000,Not remote,7
+1731,United States,138000,14,0,1,1000,Not remote,8
+1732,United States,97000,5,1,1,1000,Not remote,8
+1733,United Kingdom,37500,14,0,0,10000,Not remote,5
+1734,United States,102000,10,1,0,1000,Not remote,9
+1735,United States,90000,2,0,0,1000,Not remote,9
+1736,India,36705.3296138599,9,1,1,10000,Remote,9
+1737,India,52855.6746439583,15,0,0,20,Not remote,6
+1738,Germany,53763.4408602151,5,0,1,20,Not remote,8
+1739,Canada,43939.3939393939,1,0,1,20,Not remote,9
+1740,Canada,53030.303030303,1,0,1,20,Not remote,8
+1741,United States,75000,8,0,1,20,Not remote,8
+1742,United States,50200,1,1,1,10,Not remote,8
+1743,United States,175000,12,0,1,10000,Remote,8
+1744,United States,130000,8,0,0,100,Not remote,8
+1745,India,2202.3197768316,1,0,1,20,Remote,6
+1746,India,18323.3005432389,7,0,0,100,Not remote,6
+1747,United States,135000,8,0,1,10000,Not remote,6
+1748,India,7047.42328586111,2,1,1,10,Not remote,10
+1749,Germany,64516.1290322581,8,0,0,10000,Not remote,7
+1750,United States,155000,14,1,1,100,Not remote,8
+1751,India,10277.4922918808,1,0,1,20,Not remote,6
+1752,United States,80000,2,0,1,1000,Not remote,7
+1753,United States,127000,9,1,1,5000,Not remote,7
+1754,India,12846.865364851,8,1,0,10000,Not remote,10
+1755,Germany,45161.2903225806,1,0,1,100,Not remote,8
+1756,United States,134000,3,1,1,500,Not remote,8
+1757,United Kingdom,43750,2,0,1,100,Not remote,7
+1758,India,7341.06592277199,15,0,0,10,Not remote,10
+1759,United States,103000,2,1,1,5000,Not remote,4
+1760,India,14682.131845544,4,0,1,10,Not remote,9
+1761,United Kingdom,47500,7,0,1,1000,Not remote,7
+1762,Germany,75268.8172043011,15,1,0,100,Not remote,5
+1763,Germany,61720.4301075269,10,0,1,100,Not remote,6
+1764,India,8809.27910732638,4,1,1,10000,Not remote,6
+1765,United Kingdom,50000,11,0,0,1000,Not remote,8
+1766,Germany,54838.7096774193,7,0,1,500,Not remote,7
+1767,Germany,48387.0967741935,4,0,0,10,Not remote,9
+1768,United Kingdom,23750,2,0,1,20,Not remote,10
+1769,Germany,80645.1612903226,5,1,1,1000,Not remote,5
+1770,Germany,10322.5806451613,2,0,1,10000,Not remote,9
+1771,India,2642.78373219792,2,1,1,1,Not remote,10
+1772,United Kingdom,42187.5,2,0,1,10000,Not remote,7
+1773,United Kingdom,47500,2,0,1,20,Not remote,8
+1774,Germany,60215.0537634409,3,0,1,5000,Not remote,6
+1775,India,8809.27910732638,2,0,1,1,Not remote,10
+1776,United Kingdom,40625,2,1,1,10,Not remote,7
+1777,Germany,43870.9677419355,16,0,0,1,Remote,7
+1778,United Kingdom,30000,2,1,1,20,Not remote,8
+1779,United States,120000,9,0,0,10000,Not remote,8
+1780,United Kingdom,23750,1,0,1,20,Not remote,6
+1781,Germany,68817.2043010753,8,1,1,20,Not remote,9
+1782,India,9543.38569960358,4,1,1,100,Not remote,4
+1783,United States,115000,15,0,1,100,Not remote,6
+1784,United Kingdom,31250,2,0,0,10,Not remote,7
+1785,India,7400,4,0,0,500,Not remote,6
+1786,Germany,32258.064516129,3,0,1,100,Not remote,8
+1787,India,9102.92174423726,3,0,1,10000,Not remote,7
+1788,Germany,70967.7419354839,7,0,1,500,Not remote,8
+1789,United States,85000,20,0,0,1,Remote,6
+1790,United Kingdom,37500,2,0,1,100,Not remote,7
+1791,Germany,32258.064516129,9,0,1,10,Not remote,5
+1792,United Kingdom,41250,4,0,1,1000,Not remote,8
+1793,Germany,53763.4408602151,8,1,1,10000,Not remote,8
+1794,Germany,64516.1290322581,6,0,1,100,Not remote,7
+1795,Germany,53763.4408602151,18,1,1,20,Not remote,8
+1796,United States,68000,6,0,1,100,Not remote,8
+1797,United Kingdom,88750,15,1,1,100,Remote,6
+1798,United Kingdom,75000,20,0,1,20,Not remote,8
+1799,United States,50000,3,1,1,100,Not remote,6
+1800,United States,50000,10,0,1,100,Not remote,8
+1801,United Kingdom,75000,3,0,1,500,Not remote,8
+1802,United States,65000,11,1,1,1000,Not remote,8
+1803,Canada,56818.1818181818,10,0,0,20,Not remote,8
+1804,Germany,134408.602150538,20,1,0,10000,Not remote,9
+1805,Germany,125806.451612903,16,1,1,20,Not remote,10
+1806,United Kingdom,56250,2,0,0,20,Not remote,8
+1807,United States,89600,6,1,1,100,Not remote,9
+1808,United States,120000,4,0,0,1000,Not remote,7
+1809,United States,46000,1,0,1,100,Not remote,10
+1810,India,6606.95933049479,2,0,1,10000,Not remote,8
+1811,India,26427.8373219792,3,0,0,10000,Not remote,10
+1812,United States,120000,11,0,1,1,Not remote,8
+1813,United Kingdom,31250,5,1,1,100,Not remote,6
+1814,United States,85000,5,1,1,1000,Not remote,9
+1815,United States,70200,2,0,0,10000,Not remote,8
+1816,Canada,35454.5454545455,12,0,0,1,Remote,7
+1817,United States,54000,2,0,1,100,Not remote,2
+1818,United Kingdom,32500,3,0,1,100,Not remote,10
+1819,United States,185000,10,1,1,20,Not remote,6
+1820,United States,146000,10,0,1,1000,Remote,10
+1821,United Kingdom,37500,10,0,1,20,Not remote,10
+1822,United States,108000,17,1,1,1000,Remote,10
+1823,United States,86000,3,0,1,20,Remote,5
+1824,United Kingdom,96250,9,1,1,100,Not remote,8
+1825,United States,155000,20,0,1,1000,Not remote,8
+1826,United States,130000,6,0,0,10000,Not remote,9
+1827,United States,99000,5,1,1,1000,Not remote,0
+1828,United States,84000,2,0,0,10000,Not remote,9
+1829,United Kingdom,35000,1,0,1,10,Not remote,10
+1830,United States,85000,8,1,1,1,Not remote,8
+1831,United Kingdom,41250,7,0,1,1000,Not remote,7
+1832,United States,90000,3,0,0,10000,Not remote,10
+1833,United Kingdom,33750,2,0,1,100,Not remote,10
+1834,United States,80000,14,0,0,1000,Not remote,7
+1835,United States,135000,5,1,1,10000,Not remote,10
+1836,United States,55000,4,0,1,20,Not remote,5
+1837,United States,120000,2,0,1,1,Not remote,8
+1838,India,6342.680957275,1,0,1,1,Not remote,7
+1839,United States,55000,1,0,0,1000,Not remote,7
+1840,United States,70000,3,0,1,10,Remote,7
+1841,Germany,50537.6344086021,8,0,0,10,Remote,3
+1842,United Kingdom,37500,1,0,1,500,Not remote,10
+1843,United States,116900,1,0,1,10000,Not remote,6
+1844,United Kingdom,37500,4,0,1,100,Not remote,8
+1845,United States,153000,20,0,0,100,Not remote,7
+1846,United Kingdom,37500,6,0,1,20,Not remote,10
+1847,United States,120000,16,0,1,1000,Not remote,10
+1848,United States,95000,9,0,1,5000,Not remote,8
+1849,United Kingdom,52500,16,0,0,1000,Not remote,7
+1850,United States,63000,6,0,0,20,Not remote,8
+1851,United States,120000,16,0,0,1000,Not remote,6
+1852,United States,66300,6,1,1,20,Not remote,8
+1853,United States,120000,15,0,0,20,Not remote,6
+1854,United States,78000,11,1,1,100,Not remote,8
+1855,United States,125000,15,0,0,1000,Not remote,7
+1856,United Kingdom,45243.75,10,1,1,20,Not remote,7
+1857,United States,105000,3,0,0,10000,Not remote,10
+1858,United Kingdom,50000,2,0,1,100,Not remote,5
+1859,Canada,60606.0606060606,8,0,0,100,Not remote,7
+1860,Germany,8494.62365591398,6,0,1,10,Not remote,10
+1861,United States,50000,6,0,1,10,Not remote,6
+1862,United States,60000,4,0,1,10,Not remote,7
+1863,United Kingdom,33125,1,0,1,20,Not remote,9
+1864,United States,112000,12,0,0,5000,Remote,8
+1865,Germany,54838.7096774193,2,0,1,1000,Not remote,8
+1866,Canada,75757.5757575758,11,1,1,10000,Not remote,7
+1867,United States,80000,2,0,1,1000,Not remote,10
+1868,Germany,3763.44086021505,3,1,1,100,Not remote,8
+1869,United Kingdom,87500,2,1,1,100,Not remote,9
+1870,Germany,75268.8172043011,5,1,1,1000,Not remote,7
+1871,Germany,43010.752688172,4,1,1,100,Not remote,9
+1872,Germany,34408.6021505376,3,0,1,100,Not remote,5
+1873,United States,115241,20,0,0,10000,Remote,10
+1874,United Kingdom,58750,14,0,1,100,Not remote,7
+1875,Germany,22580.6451612903,3,0,0,100,Not remote,7
+1876,United States,85000,4,1,1,1,Not remote,8
+1877,Germany,53763.4408602151,4,1,0,10,Remote,5
+1878,United States,125000,15,1,1,100,Not remote,7
+1879,Germany,120000,11,1,1,10,Remote,7
+1880,Germany,68279.5698924731,5,0,1,10000,Not remote,9
+1881,Canada,46212.1212121212,2,0,1,100,Not remote,7
+1882,Germany,21505.376344086,2,1,1,20,Not remote,7
+1883,Germany,80645.1612903226,12,0,0,1000,Not remote,9
+1884,Germany,5161.29032258064,6,1,1,10,Not remote,7
+1885,Canada,68181.8181818182,12,0,1,20,Not remote,7
+1886,United States,120000,5,0,0,100,Not remote,7
+1887,Germany,50537.6344086021,7,0,1,20,Not remote,2
+1888,United States,175000,16,0,1,10000,Not remote,9
+1889,Canada,75757.5757575758,5,0,0,20,Not remote,8
+1890,United States,120000,9,0,1,20,Not remote,9
+1891,United States,95000,5,0,0,100,Not remote,7
+1892,Germany,53763.4408602151,8,1,1,1000,Not remote,7
+1893,United States,60000,3,0,1,10000,Remote,7
+1894,Germany,36021.5053763441,10,0,1,1,Not remote,7
+1895,United States,65000,2,0,1,500,Not remote,8
+1896,United States,87360,20,1,1,20,Not remote,7
+1897,United States,32700,4,0,1,1,Not remote,7
+1898,United States,110000,4,0,1,10000,Not remote,5
+1899,United States,95000,3,1,1,100,Not remote,10
+1900,Canada,83333.3333333333,15,1,1,100,Not remote,7
+1901,Canada,22727.2727272727,2,1,1,1,Not remote,10
+1902,India,20554.9845837616,3,0,1,10000,Not remote,7
+1903,Canada,46969.696969697,4,0,1,100,Not remote,7
+1904,India,46982.8219057407,12,1,0,10000,Remote,3
+1905,India,7341.06592277199,3,1,1,10000,Not remote,6
+1906,Germany,2795.69892473118,5,1,1,500,Not remote,10
+1907,Germany,36129.0322580645,6,0,1,1,Not remote,8
+1908,United Kingdom,46250,10,0,0,20,Not remote,7
+1909,India,7341.06592277199,6,1,1,100,Not remote,6
+1910,Germany,46236.5591397849,4,1,0,100,Not remote,9
+1911,United Kingdom,65000,10,0,0,20,Not remote,10
+1912,India,7341.06592277199,4,0,0,1,Not remote,5
+1913,Germany,49462.3655913978,4,0,1,1,Not remote,7
+1914,Germany,65698.9247311828,12,1,1,100,Not remote,9
+1915,United Kingdom,32500,3,0,1,20,Not remote,7
+1916,India,5285.56746439583,3,0,1,1,Remote,6
+1917,United Kingdom,52500,18,0,1,100,Remote,8
+1918,Germany,45161.2903225806,2,0,1,20,Not remote,7
+1919,Germany,38709.6774193548,20,1,1,20,Not remote,10
+1920,United Kingdom,46250,6,0,1,10000,Not remote,8
+1921,Germany,69741.935483871,8,0,0,20,Not remote,8
+1922,Germany,58924.7311827957,4,1,0,100,Not remote,5
+1923,India,26427.8373219792,2,0,0,20,Not remote,9
+1924,United Kingdom,16049.3827160494,10,1,1,5000,Not remote,9
+1925,Germany,48387.0967741935,5,0,1,20,Not remote,9
+1926,United Kingdom,65000,18,0,0,1000,Not remote,7
+1927,United States,120000,4,0,1,100,Not remote,10
+1928,United Kingdom,55000,15,0,0,100,Not remote,7
+1929,United Kingdom,26250,3,0,1,10,Not remote,8
+1930,United States,118000,17,0,1,5000,Remote,9
+1931,India,17618.5582146528,4,0,0,1000,Not remote,10
+1932,Germany,53763.4408602151,9,0,0,5000,Not remote,6
+1933,United Kingdom,87500,20,0,1,1000,Not remote,10
+1934,Germany,53763.4408602151,16,0,1,1000,Not remote,10
+1935,Germany,64516.1290322581,5,0,1,100,Not remote,8
+1936,United Kingdom,52500,4,1,0,10000,Not remote,7
+1937,Canada,49242.4242424242,3,0,1,10,Not remote,9
+1938,United States,65000,3,1,1,100,Not remote,10
+1939,Germany,59139.7849462366,5,0,0,1,Not remote,5
+1940,United States,108000,20,0,1,500,Remote,8
+1941,United Kingdom,35000,1,1,1,1,Not remote,7
+1942,India,8075.17251504918,2,0,1,10000,Not remote,4
+1943,United Kingdom,62500,4,1,1,100,Not remote,8
+1944,Germany,45161.2903225806,2,0,1,20,Not remote,10
+1945,United Kingdom,83750,15,1,0,100,Not remote,7
+1946,United Kingdom,68750,20,0,1,20,Not remote,6
+1947,United States,70000,2,0,1,10000,Not remote,2
+1948,Germany,59139.7849462366,5,1,1,10,Not remote,8
+1949,India,32300.6900601967,5,0,1,20,Not remote,7
+1950,United Kingdom,100000,8,1,1,10,Remote,7
+1951,United States,140000,6,0,1,1000,Not remote,10
+1952,United Kingdom,32500,20,0,1,100,Not remote,8
+1953,Canada,41666.6666666667,2,0,0,1,Not remote,10
+1954,Canada,71969.696969697,7,0,0,500,Not remote,9
+1955,United Kingdom,33125,1,1,0,1,Not remote,3
+1956,United Kingdom,50000,4,0,1,10,Not remote,6
+1957,United States,130000,18,0,1,1,Remote,8
+1958,United States,110000,6,0,1,10000,Not remote,6
+1959,Germany,29032.2580645161,10,1,1,1,Not remote,3
+1960,United States,150000,20,0,0,10000,Not remote,8
+1961,Germany,45161.2903225806,17,0,0,20,Not remote,9
+1962,United States,105000,4,1,1,10,Not remote,8
+1963,Germany,49000,2,0,1,100,Not remote,4
+1964,United Kingdom,75000,12,0,0,10,Not remote,9
+1965,United Kingdom,32500,2,0,1,10,Not remote,10
+1966,United States,55000,2,1,1,10,Not remote,7
+1967,Canada,41666.6666666667,8,0,0,100,Not remote,8
+1968,United States,125000,5,1,1,20,Not remote,8
+1969,United States,120000,4,0,0,10000,Not remote,7
+1970,United Kingdom,43750,5,0,1,20,Not remote,9
+1971,United Kingdom,40000,8,1,1,20,Remote,7
+1972,India,17618.5582146528,5,0,1,1000,Not remote,6
+1973,United States,110000,14,1,1,1000,Remote,5
+1974,United States,80000,3,0,1,20,Not remote,7
+1975,Canada,42424.2424242424,2,1,1,10,Not remote,10
+1976,United States,190000,20,1,1,10000,Not remote,8
+1977,United States,41000,5,0,1,20,Not remote,5
+1978,Germany,51612.9032258064,1,0,1,10000,Not remote,6
+1979,Germany,22580.6451612903,5,0,1,20,Not remote,6
+1980,Canada,79545.4545454545,14,0,1,20,Remote,8
+1981,Germany,8817.20430107527,3,0,1,20,Not remote,2
+1982,Germany,51612.9032258064,7,0,0,1000,Remote,4
+1983,Germany,69892.4731182796,7,0,0,100,Not remote,6
+1984,India,27896.0505065335,4,1,1,20,Not remote,6
+1985,Germany,26881.7204301075,5,0,0,1,Not remote,8
+1986,United Kingdom,87500,9,0,1,1000,Not remote,7
+1987,Germany,51612.9032258064,9,0,1,10000,Not remote,9
+1988,Germany,76344.0860215054,8,1,1,100,Not remote,9
+1989,Germany,62903.2258064516,7,1,1,100,Not remote,9
+1990,Germany,41935.4838709677,2,1,1,20,Not remote,5
+1991,United Kingdom,40000,2,0,1,10000,Not remote,7
+1992,Germany,45161.2903225806,7,0,1,20,Not remote,8
+1993,Canada,39393.9393939394,5,0,1,10000,Not remote,2
+1994,United States,107700,4,1,0,10000,Not remote,9
+1995,Canada,38863.6363636364,1,0,1,100,Not remote,7
+1996,Canada,46575.7575757576,1,0,0,500,Not remote,8
+1997,Germany,53763.4408602151,5,0,1,100,Not remote,3
+1998,India,35237.1164293055,11,0,0,10000,Not remote,4
+1999,Germany,64516.1290322581,8,1,1,20,Not remote,7
+2000,United States,120000,6,1,1,10000,Not remote,10
+2001,United States,160000,20,1,1,100,Not remote,7
+2002,Canada,37878.7878787879,2,0,1,10,Not remote,8
+2003,Germany,75268.8172043011,8,0,1,20,Not remote,8
+2004,United Kingdom,88750,11,0,1,10000,Not remote,9
+2005,United States,120000,5,0,1,500,Not remote,10
+2006,United States,115000,1,0,1,1000,Not remote,6
+2007,Canada,49242.4242424242,1,1,1,100,Not remote,9
+2008,United States,118000,2,0,1,5000,Not remote,9
+2009,United Kingdom,133125,15,0,1,5000,Not remote,8
+2010,India,8809.27910732638,7,0,1,10000,Not remote,8
+2011,United States,66400,3,0,1,500,Not remote,10
+2012,Canada,41666.6666666667,3,0,0,500,Not remote,8
+2013,United States,103000,10,0,1,10000,Remote,6
+2014,United States,100000,1,1,1,1000,Not remote,7
+2015,United States,110000,11,1,1,100,Not remote,10
+2016,United States,90000,3,1,0,20,Not remote,8
+2017,United States,100000,1,0,1,10,Not remote,10
+2018,United States,95000,2,1,1,20,Not remote,8
+2019,United States,100000,14,0,0,1000,Not remote,8
+2020,United States,140000,7,1,1,5000,Not remote,8
+2021,United States,135000,20,0,1,100,Not remote,9
+2022,India,3523.71164293055,1,0,1,10000,Not remote,6
+2023,United States,140000,20,0,0,10000,Not remote,7
+2024,India,1211.27587725738,1,0,0,100,Not remote,5
+2025,India,5872.85273821759,3,1,1,20,Not remote,9
+2026,Germany,61505.376344086,9,1,1,20,Not remote,8
+2027,United States,147000,3,0,1,10000,Not remote,8
+2028,Germany,64516.1290322581,4,0,0,100,Not remote,6
+2029,Canada,60606.0606060606,6,0,1,10,Not remote,7
+2030,India,3670.53296138599,1,1,1,10,Not remote,8
+2031,Germany,4838.70967741935,9,0,1,10,Not remote,8
+2032,India,8809.27910732638,4,1,1,1,Not remote,10
+2033,India,2202.3197768316,0,1,1,20,Not remote,10
+2034,India,16150.3450300984,19,0,1,500,Not remote,7
+2035,Germany,12903.2258064516,5,1,1,500,Not remote,8
+2036,United Kingdom,32500,3,0,0,20,Not remote,10
+2037,India,4404.63955366319,1,0,0,500,Not remote,8
+2038,India,17618.5582146528,6,0,1,100,Not remote,8
+2039,United Kingdom,43750,3,0,1,10000,Not remote,7
+2040,India,10277.4922918808,3,1,1,500,Not remote,8
+2041,United Kingdom,50000,9,0,1,20,Not remote,8
+2042,United Kingdom,63750,20,0,1,1000,Not remote,8
+2043,United Kingdom,56250,12,1,1,20,Not remote,8
+2044,India,8809.27910732638,2,0,1,20,Not remote,6
+2045,India,13213.9186609896,4,0,0,1000,Not remote,5
+2046,Germany,32258.064516129,3,0,1,20,Not remote,7
+2047,United Kingdom,35000,1,0,1,10000,Not remote,4
+2048,Germany,56774.1935483871,11,1,1,1,Not remote,7
+2049,Germany,59139.7849462366,6,0,1,1000,Not remote,8
+2050,United States,120000,20,0,0,10000,Remote,9
+2051,United Kingdom,37500,3,0,1,500,Not remote,6
+2052,United Kingdom,144086.021505376,9,0,0,1000,Not remote,7
+2053,Germany,53763.4408602151,5,1,1,10,Not remote,6
+2054,United States,87000,10,0,0,500,Not remote,7
+2055,Germany,64516.1290322581,4,0,0,10000,Not remote,7
+2056,United Kingdom,87500,17,0,1,10000,Remote,7
+2057,Germany,26477.4193548387,2,1,1,20,Not remote,5
+2058,Canada,102272.727272727,20,1,1,100,Not remote,9
+2059,India,13213.9186609896,5,1,1,5000,Not remote,8
+2060,United States,84000,10,0,1,100,Not remote,9
+2061,United Kingdom,26250,1,0,1,500,Not remote,8
+2062,Canada,60606.0606060606,7,0,1,20,Not remote,7
+2063,Germany,38709.6774193548,4,1,1,10,Remote,8
+2064,United States,105000,6,0,1,10,Not remote,5
+2065,United States,90000,7,0,0,10000,Remote,5
+2066,Germany,64516.1290322581,19,1,1,20,Not remote,7
+2067,Canada,90909.0909090909,12,1,1,1000,Not remote,4
+2068,United States,121500,19,0,1,500,Remote,9
+2069,United Kingdom,43750,4,0,1,10,Not remote,8
+2070,United Kingdom,23750,2,1,1,20,Not remote,7
+2071,United Kingdom,37500,2,0,1,20,Remote,7
+2072,United States,150000,9,1,1,100,Not remote,9
+2073,United Kingdom,62500,6,0,1,1000,Not remote,8
+2074,United Kingdom,37500,3,0,1,100,Not remote,9
+2075,United States,65000,14,0,0,1000,Not remote,8
+2076,United States,65000,1,0,1,1,Not remote,7
+2077,United States,70000,2,0,1,1000,Not remote,7
+2078,Germany,5376.34408602151,3,0,1,10,Remote,8
+2079,United States,140000,3,1,1,10000,Not remote,7
+2080,United States,65000,5,0,1,1,Not remote,10
+2081,Germany,80645.1612903226,7,0,0,100,Not remote,10
+2082,United Kingdom,41250,3,0,1,10,Not remote,8
+2083,United States,110000,20,0,1,100,Not remote,8
+2084,Germany,55913.9784946237,6,0,0,100,Not remote,8
+2085,United States,91000,2,1,1,20,Not remote,9
+2086,United States,139000,10,0,0,20,Not remote,7
+2087,Germany,53763.4408602151,2,0,1,10000,Not remote,10
+2088,United States,85000,3,0,0,1000,Not remote,7
+2089,United States,100000,2,0,1,10,Not remote,8
+2090,United States,68400,2,0,1,1000,Not remote,6
+2091,United Kingdom,36875,4,1,1,500,Not remote,6
+2092,United States,40000,2,0,1,1,Not remote,8
+2093,United States,95000,4,1,0,10,Remote,7
+2094,United Kingdom,125000,8,0,1,10000,Not remote,10
+2095,Germany,44086.0215053763,4,1,1,500,Remote,8
+2096,Canada,45454.5454545455,1,0,1,10000,Not remote,9
+2097,United States,120000,20,0,1,20,Remote,8
+2098,United States,102000,10,0,1,5000,Not remote,8
+2099,United States,75000,2,0,1,1000,Not remote,10
+2100,United Kingdom,37500,3,0,1,10,Not remote,8
+2101,Germany,52903.2258064516,3,1,1,20,Not remote,5
+2102,Germany,47096.7741935484,2,1,1,1000,Remote,8
+2103,United Kingdom,28750,3,1,1,10,Not remote,8
+2104,United States,80000,14,1,0,10,Not remote,9
+2105,Germany,51612.9032258064,3,0,1,20,Not remote,7
+2106,United States,108552,20,0,0,10000,Remote,8
+2107,United Kingdom,55000,5,1,1,500,Not remote,7
+2108,United States,65000,1,0,1,1000,Not remote,6
+2109,United States,140000,9,0,1,100,Remote,7
+2110,United States,145000,4,1,1,10000,Not remote,8
+2111,United Kingdom,62500,5,1,1,20,Not remote,8
+2112,United States,115000,6,0,1,20,Not remote,10
+2113,United States,122000,5,0,1,10000,Not remote,8
+2114,Germany,43010.752688172,5,1,1,20,Not remote,7
+2115,United States,90000,2,0,1,100,Not remote,8
+2116,United States,125000,4,1,1,20,Not remote,8
+2117,United States,63000,4,0,0,100,Not remote,9
+2118,United Kingdom,45000,5,0,1,5000,Remote,6
+2119,Canada,34090.9090909091,2,0,1,100,Not remote,5
+2120,United Kingdom,100000,12,0,1,10,Not remote,9
+2121,Canada,41666.6666666667,2,1,1,20,Not remote,8
+2122,United States,175000,17,0,1,100,Not remote,9
+2123,United Kingdom,68750,20,0,1,1000,Not remote,6
+2124,United States,40800,2,1,1,100,Remote,8
+2125,United States,100000,10,1,1,500,Not remote,8
+2126,United States,75000,3,0,0,20,Not remote,8
+2127,United Kingdom,62500,9,0,1,1,Not remote,7
+2128,United States,80000,2,0,1,10000,Not remote,5
+2129,Canada,45454.5454545455,1,1,1,10000,Not remote,8
+2130,United States,110000,6,0,1,5000,Not remote,7
+2131,United States,80000,4,0,1,100,Not remote,7
+2132,United States,180000,20,0,1,5000,Not remote,8
+2133,United States,105000,20,1,1,5000,Not remote,10
+2134,Germany,75268.8172043011,7,1,1,10,Not remote,8
+2135,United States,110000,17,0,1,500,Not remote,9
+2136,United States,72000,3,0,0,500,Not remote,7
+2137,United Kingdom,143750,8,1,1,20,Not remote,9
+2138,United States,60000,2,0,1,20,Not remote,8
+2139,United States,145000,7,0,0,10,Not remote,9
+2140,United States,155000,12,0,1,10000,Not remote,8
+2141,United States,110000,1,0,1,10000,Not remote,8
+2142,United States,150000,20,1,0,500,Not remote,8
+2143,United Kingdom,52500,20,1,1,20,Not remote,8
+2144,United States,90000,5,1,1,20,Not remote,9
+2145,United States,75000,14,0,0,1000,Not remote,10
+2146,United States,85000,6,0,0,100,Not remote,5
+2147,United States,180000,20,0,1,10000,Not remote,8
+2148,United States,145000,9,0,0,20,Not remote,6
+2149,United States,127000,20,1,1,500,Not remote,5
+2150,United States,60000,9,0,1,20,Remote,8
+2151,United States,105000,5,0,1,1000,Not remote,3
+2152,Canada,50757.5757575758,6,0,1,100,Not remote,8
+2153,United States,130000,8,1,1,1000,Remote,8
+2154,United States,130000,10,0,0,500,Not remote,7
+2155,United States,84000,2,0,1,1000,Not remote,7
+2156,United States,75000,2,0,1,1000,Not remote,9
+2157,United States,69806.0606060606,1,0,1,10000,Not remote,9
+2158,United States,98000,8,0,1,20,Not remote,7
+2159,United States,76000,1,0,0,1000,Not remote,8
+2160,Germany,72043.0107526882,10,0,1,100,Not remote,7
+2161,United States,150000,1,0,1,100,Not remote,9
+2162,United States,81000,3,1,1,20,Not remote,8
+2163,India,4110.99691675231,2,1,1,100,Not remote,5
+2164,India,7047.42328586111,4,0,0,100,Not remote,5
+2165,India,15416.2384378212,5,1,1,1000,Not remote,4
+2166,India,2466.59815005139,7,0,1,20,Not remote,7
+2167,United States,95000,2,0,1,100,Remote,8
+2168,United Kingdom,81250,6,0,1,100,Not remote,3
+2169,India,9405.79277396238,5,1,1,100,Not remote,6
+2170,United States,68000,2,0,1,100,Not remote,10
+2171,India,6695.05212156805,3,1,1,1,Not remote,7
+2172,United Kingdom,62500,10,1,0,10,Not remote,9
+2173,United Kingdom,45000,20,0,0,10,Not remote,7
+2174,Germany,60215.0537634409,5,1,1,1000,Not remote,8
+2175,India,13213.9186609896,5,1,0,10000,Remote,7
+2176,Germany,43010.752688172,2,0,0,20,Not remote,6
+2177,United Kingdom,35000,4,0,1,10,Not remote,6
+2178,India,2642.78373219792,11,1,1,1000,Not remote,8
+2179,India,22023.197768316,4,1,1,10000,Not remote,7
+2180,India,8809.27910732638,3,1,1,20,Not remote,8
+2181,Germany,64516.1290322581,6,0,1,20,Not remote,7
+2182,India,3171.3404786375,2,0,0,1,Not remote,10
+2183,United Kingdom,68750,19,1,1,5000,Not remote,8
+2184,United Kingdom,50000,3,0,1,100,Not remote,3
+2185,United Kingdom,35000,1,0,0,20,Not remote,5
+2186,India,4404.63955366319,2,0,0,20,Not remote,9
+2187,United Kingdom,62500,6,0,1,500,Not remote,5
+2188,United Kingdom,66250,1,0,1,10,Not remote,8
+2189,Germany,64516.1290322581,11,1,1,10,Not remote,7
+2190,United Kingdom,93750,3,0,1,20,Not remote,10
+2191,Germany,59139.7849462366,3,0,1,100,Not remote,10
+2192,India,6166.49537512847,4,0,0,10,Not remote,5
+2193,United Kingdom,50000,10,0,1,10,Not remote,7
+2194,Germany,25806.4516129032,1,0,1,10,Not remote,8
+2195,Canada,46212.1212121212,5,0,1,100,Not remote,8
+2196,United Kingdom,35000,1,0,0,100,Not remote,10
+2197,United States,84000,3,0,1,5000,Not remote,4
+2198,United Kingdom,43750,5,1,1,20,Not remote,10
+2199,Germany,51612.9032258064,7,0,0,100,Not remote,5
+2200,Germany,23225.8064516129,4,0,1,1,Not remote,8
+2201,United States,45760,2,0,1,1,Remote,10
+2202,Germany,43010.752688172,3,0,0,10,Not remote,4
+2203,United Kingdom,37500,4,0,1,20,Not remote,8
+2204,United Kingdom,57500,2,0,1,20,Not remote,6
+2205,United States,109000,4,0,0,10000,Not remote,6
+2206,United Kingdom,56250,2,0,1,1,Remote,10
+2207,Germany,69892.4731182796,8,0,1,100,Not remote,7
+2208,United Kingdom,41250,9,0,1,1,Remote,9
+2209,Germany,59139.7849462366,15,0,1,1,Remote,4
+2210,United States,65000,3,0,1,20,Remote,10
+2211,United States,100000,4,0,1,100,Not remote,8
+2212,United States,126000,11,1,1,20,Not remote,8
+2213,United Kingdom,53750,3,1,1,20,Not remote,6
+2214,United States,50000,3,0,1,10,Not remote,7
+2215,United Kingdom,35000,1,0,1,20,Not remote,8
+2216,United States,120000,10,0,1,20,Not remote,8
+2217,India,13213.9186609896,1,1,0,20,Not remote,8
+2218,United Kingdom,75000,20,1,1,100,Not remote,8
+2219,Canada,45454.5454545455,6,0,0,20,Not remote,9
+2220,Germany,41290.3225806452,3,0,1,1000,Not remote,10
+2221,United States,115000,10,1,1,10000,Not remote,9
+2222,Canada,56818.1818181818,2,0,1,10,Not remote,8
+2223,Canada,22727.2727272727,4,0,1,20,Not remote,5
+2224,Germany,62365.5913978495,7,0,1,20,Not remote,7
+2225,Germany,45161.2903225806,2,0,1,20,Remote,9
+2226,United States,143000,18,1,1,10000,Not remote,8
+2227,Germany,52903.2258064516,5,0,1,20,Not remote,9
+2228,United States,60000,1,0,1,100,Not remote,6
+2229,United States,55000,1,1,1,20,Not remote,8
+2230,United States,104400,3,1,1,1000,Not remote,10
+2231,United States,64000,2,1,1,1000,Not remote,8
+2232,United Kingdom,56250,9,0,1,10,Not remote,9
+2233,Canada,46212.1212121212,5,0,1,20,Not remote,9
+2234,United States,100000,11,1,1,1000,Not remote,8
+2235,United States,120000,19,0,1,1000,Not remote,7
+2236,United States,72000,3,0,1,20,Not remote,8
+2237,United Kingdom,33750,6,0,0,20,Not remote,10
+2238,United Kingdom,48387.0967741935,20,1,1,10,Not remote,4
+2239,United Kingdom,41250,4,0,1,1,Not remote,9
+2240,United States,118000,20,1,1,20,Not remote,8
+2241,Canada,78030.303030303,19,0,1,5000,Remote,9
+2242,United States,157000,20,0,1,10000,Not remote,9
+2243,Germany,50167.7419354839,10,0,1,100,Not remote,8
+2244,India,8075.17251504918,1,0,0,1000,Not remote,3
+2245,United Kingdom,42500,2,0,0,20,Not remote,8
+2246,United States,57200,4,0,1,100,Not remote,9
+2247,United States,50000,1,1,1,20,Not remote,10
+2248,United States,105000,5,0,0,500,Not remote,6
+2249,United States,55000,5,0,1,10000,Remote,7
+2250,United States,93000,13,0,1,20,Not remote,8
+2251,United Kingdom,37812.5,3,1,1,20,Not remote,9
+2252,Germany,2150.5376344086,5,1,1,20,Not remote,5
+2253,United States,170000,7,1,0,1000,Not remote,9
+2254,United States,100000,7,0,1,20,Not remote,7
+2255,Canada,31818.1818181818,5,0,1,10000,Not remote,6
+2256,United States,68000,5,0,1,1000,Not remote,10
+2257,United States,150000,7,0,0,10000,Not remote,6
+2258,United Kingdom,50000,5,0,1,1,Not remote,9
+2259,United States,90000,1,0,1,100,Not remote,7
+2260,Germany,34838.7096774194,5,1,1,10,Not remote,10
+2261,United Kingdom,43750,3,0,1,100,Not remote,7
+2262,United States,156000,20,0,0,10000,Not remote,9
+2263,United States,60000,1,0,1,100,Not remote,8
+2264,United States,50000,5,0,1,100,Not remote,8
+2265,United States,125000,6,0,1,10000,Not remote,9
+2266,United States,128000,9,1,1,5000,Not remote,7
+2267,United States,118000,9,0,1,5000,Not remote,8
+2268,United States,135000,20,1,0,1,Remote,10
+2269,United States,120000,12,0,0,10,Not remote,5
+2270,Canada,47348.4848484848,4,0,0,20,Not remote,7
+2271,Germany,64516.1290322581,6,1,1,20,Not remote,7
+2272,United Kingdom,37500,2,0,1,5000,Not remote,10
+2273,Canada,132575.757575758,4,1,1,10000,Remote,9
+2274,United States,100000,8,1,1,20,Remote,10
+2275,United States,80000,2,0,1,100,Not remote,8
+2276,United States,55000,1,0,1,1,Not remote,8
+2277,United States,145000,20,0,1,20,Remote,8
+2278,United States,140000,19,0,0,10000,Not remote,9
+2279,Canada,44121.2121212121,3,0,1,20,Not remote,9
+2280,United Kingdom,43750,5,1,1,100,Not remote,8
+2281,United States,105000,19,1,0,1000,Not remote,8
+2282,United States,50000,14,0,0,10,Not remote,7
+2283,United States,76000,1,0,1,1000,Not remote,7
+2284,United States,95000,1,1,1,100,Not remote,6
+2285,United States,41000,1,0,1,5000,Not remote,10
+2286,United States,110000,4,0,1,10000,Not remote,10
+2287,United States,102000,20,0,1,10000,Not remote,8
+2288,United States,82000,4,0,1,1000,Not remote,8
+2289,United States,129000,4,1,1,10000,Not remote,5
+2290,Germany,82580.6451612903,9,0,1,100,Not remote,8
+2291,United States,65000,2,0,0,10000,Not remote,8
+2292,United States,150000,7,0,1,10000,Not remote,9
+2293,Germany,55913.9784946237,8,0,0,500,Not remote,10
+2294,United States,111000,9,0,0,20,Not remote,5
+2295,United States,75500,11,0,0,1000,Not remote,2
+2296,United States,150000,5,0,1,100,Not remote,10
+2297,United States,93000,7,1,1,20,Remote,8
+2298,United Kingdom,37500,20,0,1,1,Not remote,9
+2299,United States,172000,20,0,1,10000,Not remote,7
+2300,United Kingdom,43750,4,0,1,20,Not remote,5
+2301,United States,132000,15,0,0,20,Remote,10
+2302,United Kingdom,37500,4,1,1,10,Not remote,8
+2303,United States,60000,6,0,1,20,Not remote,8
+2304,United States,150000,8,1,1,1,Not remote,8
+2305,United States,55000,1,1,1,100,Not remote,8
+2306,United States,66000,2,0,1,100,Not remote,9
+2307,United States,120000,4,0,0,10000,Not remote,7
+2308,United Kingdom,85000,4,1,1,10000,Not remote,10
+2309,United States,55000,4,0,1,10,Not remote,5
+2310,India,14682.131845544,2,1,1,10,Not remote,7
+2311,United States,50000,2,0,0,10000,Remote,9
+2312,Canada,50757.5757575758,3,0,1,500,Not remote,8
+2313,United States,89000,6,1,1,20,Not remote,8
+2314,United States,135000,3,0,0,20,Not remote,9
+2315,United States,124000,11,0,0,1000,Not remote,7
+2316,Canada,45454.5454545455,5,0,1,20,Not remote,6
+2317,Canada,106060.606060606,20,1,1,20,Not remote,10
+2318,Canada,39393.9393939394,2,0,1,1000,Not remote,8
+2319,Canada,68181.8181818182,15,0,1,100,Not remote,8
+2320,United States,115000,5,1,1,20,Not remote,9
+2321,Germany,64516.1290322581,3,0,1,10000,Not remote,10
+2322,United States,71500,3,0,0,20,Not remote,7
+2323,United States,75000,3,0,1,1,Not remote,8
+2324,Canada,64393.9393939394,5,0,0,500,Not remote,9
+2325,United States,105000,9,1,1,100,Remote,8
+2326,United States,49000,2,0,1,20,Not remote,7
+2327,India,25693.730729702,14,0,1,10000,Not remote,8
+2328,India,4698.28219057407,2,0,0,100,Not remote,5
+2329,India,7047.42328586111,0,1,1,10,Not remote,9
+2330,India,2114.22698575833,0,0,1,20,Not remote,10
+2331,India,2936.42636910879,1,1,1,500,Not remote,6
+2332,Germany,40860.2150537634,14,0,0,1,Not remote,3
+2333,India,10277.4922918808,3,1,1,100,Not remote,8
+2334,India,22023.197768316,1,0,0,100,Not remote,9
+2335,India,1761.85582146528,2,0,1,10,Remote,10
+2336,United States,150000,4,1,1,20,Not remote,7
+2337,Germany,42030.1075268817,1,0,0,100,Not remote,10
+2338,United Kingdom,30000,2,0,1,20,Not remote,7
+2339,Germany,3225.8064516129,2,0,1,10,Not remote,8
+2340,United Kingdom,15000,1,0,0,1,Not remote,6
+2341,India,14682.131845544,5,0,0,1000,Not remote,5
+2342,India,2657.46586404346,1,1,1,20,Not remote,5
+2343,United Kingdom,48625,1,0,0,5000,Not remote,8
+2344,India,5138.74614594039,3,1,0,100,Not remote,8
+2345,United Kingdom,50000,4,0,0,10,Not remote,7
+2346,United Kingdom,41875,4,0,1,20,Not remote,7
+2347,Germany,62365.5913978495,5,0,1,100,Not remote,10
+2348,Germany,69892.4731182796,4,1,1,100,Not remote,9
+2349,India,2642.78373219792,1,0,1,1,Not remote,6
+2350,Germany,52903.2258064516,4,0,1,500,Not remote,10
+2351,Canada,85416.6666666667,20,0,1,20,Remote,10
+2352,United Kingdom,56250,4,0,0,100,Not remote,9
+2353,Canada,42651.5151515152,2,0,0,5000,Not remote,9
+2354,India,8075.17251504918,4,0,0,20,Remote,7
+2355,Germany,56989.247311828,3,0,1,10000,Not remote,10
+2356,Germany,35483.8709677419,5,0,1,20,Not remote,8
+2357,United States,180000,20,1,1,1,Not remote,10
+2358,United Kingdom,62500,5,0,0,100,Not remote,8
+2359,United Kingdom,26875,1,0,1,1000,Not remote,9
+2360,United Kingdom,26250,3,1,1,1,Not remote,7
+2361,Germany,43010.752688172,3,0,0,100,Not remote,7
+2362,United States,108000,11,1,1,5000,Not remote,9
+2363,Germany,64516.1290322581,14,0,1,500,Not remote,8
+2364,Germany,3225.8064516129,2,1,1,100,Not remote,7
+2365,Germany,118279.569892473,9,1,1,10000,Not remote,4
+2366,India,13213.9186609896,10,1,1,100,Not remote,6
+2367,Germany,45161.2903225806,2,0,1,100,Not remote,9
+2368,Germany,38709.6774193548,3,0,1,10,Not remote,8
+2369,India,2114.22698575833,1,1,0,100,Not remote,7
+2370,United States,85000,3,1,1,100,Not remote,7
+2371,United Kingdom,51250,2,0,1,20,Not remote,7
+2372,Germany,69892.4731182796,10,0,1,1,Not remote,10
+2373,Germany,53763.4408602151,5,0,1,10000,Not remote,10
+2374,Germany,48387.0967741935,6,0,1,10000,Not remote,7
+2375,Germany,91397.8494623656,8,0,1,20,Not remote,8
+2376,United States,140000,14,0,1,1000,Not remote,4
+2377,United Kingdom,62500,9,0,1,1000,Not remote,7
+2378,United Kingdom,46875,2,0,0,100,Not remote,6
+2379,United States,50000,2,0,0,1,Not remote,8
+2380,United States,110000,17,1,1,10000,Not remote,8
+2381,United States,53000,9,0,1,500,Not remote,5
+2382,United States,120000,14,0,1,10,Not remote,6
+2383,Germany,62365.5913978495,4,0,1,10,Not remote,6
+2384,Germany,74193.5483870968,10,0,0,100,Not remote,9
+2385,United States,170000,10,0,0,100,Not remote,7
+2386,Canada,71969.696969697,10,1,0,1000,Not remote,8
+2387,United States,135000,20,0,1,10000,Not remote,9
+2388,United Kingdom,40000,3,0,1,20,Not remote,7
+2389,United Kingdom,43750,5,1,1,20,Not remote,7
+2390,Germany,3333.33333333333,14,1,1,20,Not remote,5
+2391,United Kingdom,40000,5,0,1,10,Not remote,7
+2392,United States,90000,3,1,1,100,Not remote,9
+2393,United Kingdom,52500,2,0,1,20,Not remote,7
+2394,United States,65000,14,1,1,500,Not remote,9
+2395,Germany,46451.6129032258,5,0,1,10,Not remote,8
+2396,United Kingdom,40400,9,0,1,1000,Not remote,6
+2397,United Kingdom,20000,2,0,1,20,Not remote,8
+2398,United Kingdom,42500,7,0,1,100,Not remote,9
+2399,Germany,64516.1290322581,15,0,1,20,Not remote,9
+2400,United States,60000,2,1,1,100,Not remote,9
+2401,United States,65000,3,1,1,20,Remote,8
+2402,United States,60000,2,0,1,20,Not remote,7
+2403,United States,140000,15,0,1,20,Remote,8
+2404,Canada,83333.3333333333,10,0,1,1000,Not remote,8
+2405,Germany,40860.2150537634,4,0,1,500,Not remote,9
+2406,Canada,45454.5454545455,1,0,0,20,Not remote,7
+2407,United States,68000,4,0,1,100,Not remote,5
+2408,Germany,62903.2258064516,5,1,1,500,Not remote,7
+2409,United States,100000,3,0,0,20,Not remote,7
+2410,United Kingdom,36000,2,0,1,1000,Not remote,7
+2411,United States,71500,6,1,1,20,Remote,7
+2412,United States,82000,3,1,1,20,Not remote,8
+2413,United Kingdom,53750,13,1,1,500,Not remote,9
+2414,Canada,60606.0606060606,9,1,1,10,Not remote,7
+2415,Canada,61363.6363636364,4,0,1,5000,Not remote,9
+2416,United States,180000,20,0,1,1000,Not remote,10
+2417,United States,78000,9,1,1,100,Not remote,8
+2418,United States,113000,4,0,1,1000,Remote,8
+2419,Germany,64516.1290322581,7,1,1,20,Not remote,7
+2420,United Kingdom,66250,8,1,1,100,Not remote,10
+2421,India,8809.27910732638,4,0,1,10,Not remote,8
+2422,United Kingdom,42500,2,0,1,20,Not remote,9
+2423,United Kingdom,56250,12,0,1,20,Not remote,8
+2424,Germany,75268.8172043011,10,0,1,20,Not remote,7
+2425,United States,130000,18,0,1,500,Not remote,7
+2426,United States,76500,3,0,1,5000,Not remote,10
+2427,Germany,25806.4516129032,9,1,1,10,Not remote,9
+2428,United States,125000,20,1,1,10000,Not remote,7
+2429,United Kingdom,52500,4,1,1,100,Not remote,9
+2430,United States,130000,20,1,1,10000,Not remote,10
+2431,United Kingdom,44186.25,1,0,1,5000,Not remote,8
+2432,United Kingdom,53750,6,0,1,1000,Not remote,7
+2433,United Kingdom,46250,3,0,1,1000,Not remote,7
+2434,United States,55000,1,0,1,1,Not remote,8
+2435,United Kingdom,46250,6,0,1,1,Not remote,8
+2436,United States,120000,6,0,1,10000,Not remote,9
+2437,United States,60000,10,0,0,20,Remote,8
+2438,Canada,30303.0303030303,3,1,1,1,Not remote,8
+2439,United States,67400,1,0,0,100,Not remote,4
+2440,India,4404.63955366319,1,0,0,10,Remote,9
+2441,United States,85000,2,1,1,10,Not remote,4
+2442,United Kingdom,47500,5,0,1,1000,Not remote,7
+2443,United Kingdom,30000,3,0,1,20,Not remote,7
+2444,United States,86000,5,1,1,20,Not remote,7
+2445,United Kingdom,48125,18,0,0,100,Not remote,5
+2446,United Kingdom,43750,7,0,0,100,Not remote,6
+2447,United Kingdom,31250,3,0,1,20,Not remote,6
+2448,United States,50000,2,1,1,10000,Not remote,6
+2449,United States,120000,16,0,0,5000,Not remote,9
+2450,United States,180000,16,1,1,20,Not remote,9
+2451,United States,48000,2,1,1,5000,Not remote,10
+2452,United States,40000,2,1,1,1,Remote,10
+2453,United Kingdom,76875,5,0,0,1000,Not remote,7
+2454,Germany,10215.0537634409,1,1,1,10,Not remote,7
+2455,United Kingdom,113750,20,0,1,20,Not remote,7
+2456,United States,80000,18,1,1,1000,Not remote,8
+2457,United States,100000,4,0,1,20,Not remote,7
+2458,United States,90000,3,0,1,20,Remote,8
+2459,United States,86000,20,1,1,5000,Not remote,7
+2460,Canada,68181.8181818182,11,1,1,20,Not remote,8
+2461,United States,70000,1,1,1,5000,Not remote,8
+2462,United States,72000,3,0,1,10000,Not remote,5
+2463,United Kingdom,128750,6,1,1,100,Not remote,8
+2464,United States,110000,2,0,1,5000,Not remote,6
+2465,United States,90000,3,1,1,10,Not remote,9
+2466,Canada,64393.9393939394,1,0,1,100,Not remote,9
+2467,United States,120000,14,1,1,20,Not remote,5
+2468,Canada,74242.4242424242,2,1,1,500,Not remote,8
+2469,United States,110000,3,1,1,10000,Not remote,9
+2470,United Kingdom,133125,14,0,1,10000,Not remote,8
+2471,United Kingdom,50000,4,0,1,1,Not remote,8
+2472,Canada,61363.6363636364,16,0,0,1000,Not remote,7
+2473,United States,75000,2,1,1,1000,Not remote,7
+2474,United States,115000,5,0,1,10000,Not remote,10
+2475,United States,155000,20,1,1,1,Remote,8
+2476,United States,100000,8,0,1,10,Remote,8
+2477,United States,92500,4,1,1,100,Not remote,8
+2478,India,7487.88724122743,5,1,1,20,Not remote,10
+2479,Germany,43354.8387096774,2,0,1,10,Not remote,4
+2480,Germany,48387.0967741935,9,0,1,100,Not remote,6
+2481,United Kingdom,46250,4,0,1,1000,Not remote,6
+2482,Germany,80645.1612903226,8,0,1,1000,Not remote,7
+2483,India,3171.3404786375,20,0,1,20,Not remote,8
+2484,United States,120000,11,0,1,1000,Not remote,5
+2485,India,17095.8743209514,4,0,1,100,Not remote,8
+2486,United Kingdom,87500,3,0,1,100,Not remote,8
+2487,Germany,59139.7849462366,14,0,0,20,Not remote,8
+2488,Germany,64516.1290322581,3,0,1,5000,Not remote,9
+2489,United Kingdom,30000,1,0,1,20,Not remote,8
+2490,Germany,48387.0967741935,3,0,1,100,Not remote,8
+2491,United Kingdom,43750,3,0,1,1000,Not remote,9
+2492,United Kingdom,90000,11,1,0,10000,Not remote,9
+2493,United Kingdom,30000,1,0,1,1000,Not remote,8
+2494,Germany,48387.0967741935,3,0,0,5000,Not remote,7
+2495,United Kingdom,56250,18,0,1,20,Not remote,7
+2496,United Kingdom,57937.5,20,0,1,500,Not remote,8
+2497,United Kingdom,66250,9,1,1,20,Not remote,8
+2498,Germany,69892.4731182796,11,0,1,10,Not remote,8
+2499,United States,83000,20,0,1,1000,Not remote,9
+2500,Germany,12903.2258064516,2,0,0,10,Not remote,6
+2501,United Kingdom,51250,5,1,0,20,Not remote,9
+2502,India,3964.17559829687,2,0,0,10,Not remote,8
+2503,United Kingdom,25000,2,1,1,10,Not remote,7
+2504,United Kingdom,31250,1,0,0,500,Not remote,8
+2505,United Kingdom,42500,1,1,1,1,Not remote,7
+2506,United Kingdom,46875,20,0,1,10000,Not remote,9
+2507,United Kingdom,22500,1,0,0,10,Not remote,8
+2508,India,12479.8120687124,2,0,1,1000,Not remote,7
+2509,United Kingdom,63750,2,0,1,10000,Not remote,8
+2510,United States,70000,5,0,1,500,Not remote,8
+2511,United Kingdom,54062.5,20,0,1,10000,Remote,6
+2512,Germany,43010.752688172,3,0,1,20,Not remote,6
+2513,United Kingdom,32500,1,0,1,1000,Not remote,6
+2514,Canada,65909.0909090909,10,0,1,10000,Not remote,10
+2515,Germany,37419.3548387097,7,0,1,1,Not remote,3
+2516,United Kingdom,31250,3,0,1,20,Not remote,7
+2517,United Kingdom,25000,1,0,1,10,Not remote,7
+2518,United States,115000,20,0,1,100,Not remote,8
+2519,United States,91200,10,1,1,1,Remote,10
+2520,United Kingdom,75000,5,1,0,100,Not remote,8
+2521,Germany,51612.9032258064,7,0,1,1,Not remote,7
+2522,Germany,66666.6666666667,13,0,0,100,Not remote,9
+2523,United Kingdom,43250,3,0,1,500,Not remote,6
+2524,United States,87000,8,0,1,10,Not remote,7
+2525,Germany,53763.4408602151,15,0,0,20,Not remote,3
+2526,United Kingdom,62500,7,1,0,1,Not remote,7
+2527,United States,135000,5,1,1,100,Not remote,9
+2528,United States,110000,13,0,0,20,Not remote,10
+2529,United States,95000,7,0,0,20,Not remote,8
+2530,United States,75000,3,1,1,20,Not remote,7
+2531,Canada,60606.0606060606,20,0,1,5000,Not remote,7
+2532,Germany,2150.5376344086,5,1,0,10,Not remote,5
+2533,United States,115000,3,0,1,1000,Not remote,6
+2534,United Kingdom,62500,8,0,1,100,Not remote,8
+2535,United Kingdom,93750,13,0,1,20,Not remote,7
+2536,United Kingdom,42500,2,0,1,1000,Not remote,4
+2537,United Kingdom,35000,4,0,1,10,Not remote,7
+2538,United Kingdom,58750,6,0,0,100,Not remote,6
+2539,United Kingdom,50000,2,0,1,500,Not remote,10
+2540,United States,170000,8,0,1,1000,Not remote,8
+2541,United States,110000,7,0,0,100,Remote,10
+2542,United Kingdom,46875,3,0,1,20,Not remote,8
+2543,United Kingdom,56250,3,1,1,20,Not remote,7
+2544,United States,94000,14,1,1,20,Not remote,7
+2545,United States,49677,15,0,0,100,Not remote,8
+2546,United States,80000,20,0,1,10000,Not remote,8
+2547,United States,114000,9,1,1,20,Not remote,8
+2548,United States,150000,4,1,1,100,Not remote,5
+2549,United States,92000,5,0,1,500,Not remote,8
+2550,United Kingdom,143750,5,0,1,10000,Not remote,8
+2551,Germany,48387.0967741935,8,0,1,1000,Not remote,8
+2552,United States,76000,6,0,0,20,Not remote,6
+2553,United States,54000,13,0,0,10,Not remote,6
+2554,Canada,63636.3636363636,7,0,1,100,Not remote,10
+2555,United States,126000,3,0,1,20,Not remote,8
+2556,United States,50000,0,0,1,20,Not remote,10
+2557,United Kingdom,57500,12,1,1,20,Not remote,6
+2558,Canada,54545.4545454545,7,0,1,20,Not remote,7
+2559,Canada,47272.7272727273,3,0,1,100,Not remote,7
+2560,United Kingdom,22500,1,0,1,10000,Not remote,7
+2561,United States,85000,13,0,1,10000,Not remote,7
+2562,Canada,50000,3,0,0,20,Not remote,5
+2563,Canada,151515.151515152,20,1,0,500,Not remote,10
+2564,United States,60000,1,0,1,20,Not remote,9
+2565,India,1283.33578035531,1,0,0,20,Not remote,9
+2566,Germany,48387.0967741935,13,0,1,500,Not remote,7
+2567,United States,73800,3,1,1,5000,Not remote,8
+2568,United States,133000,20,0,1,1000,Remote,9
+2569,India,2642.78373219792,4,1,1,100,Not remote,5
+2570,United Kingdom,41825,2,0,1,10000,Not remote,6
+2571,Canada,34469.696969697,3,0,1,100,Not remote,5
+2572,United States,61635,1,0,1,10000,Not remote,9
+2573,Canada,80000,9,0,0,500,Not remote,9
+2574,United States,175000,12,1,1,10000,Not remote,10
+2575,United Kingdom,81250,6,1,1,100,Not remote,9
+2576,United States,118500,1,0,0,10000,Not remote,6
+2577,Germany,69892.4731182796,16,0,0,10000,Not remote,10
+2578,United States,70000,2,0,1,5000,Not remote,9
+2579,Germany,4516.12903225806,1,0,1,5000,Not remote,2
+2580,United States,103000,16,0,1,20,Not remote,10
+2581,United States,138000,16,1,1,100,Not remote,8
+2582,United States,72000,5,0,1,10000,Remote,8
+2583,United States,44000,1,0,1,1,Not remote,10
+2584,United States,42000,1,0,1,20,Not remote,6
+2585,Canada,75757.5757575758,7,0,1,100,Not remote,9
+2586,United States,40000,1,0,0,5000,Not remote,7
+2587,United States,85000,8,0,1,500,Not remote,8
+2588,Canada,56060.6060606061,16,0,1,10000,Not remote,8
+2589,Germany,3548.38709677419,2,1,1,20,Not remote,10
+2590,United States,71000,5,0,1,1,Not remote,9
+2591,Canada,37878.7878787879,4,1,1,20,Not remote,6
+2592,United States,50000,3,0,1,1,Not remote,7
+2593,United States,110000,16,1,1,10000,Not remote,7
+2594,United States,105000,12,0,0,100,Not remote,7
+2595,United States,65000,2,0,1,500,Not remote,4
+2596,Canada,59469.696969697,6,0,0,20,Not remote,8
+2597,Canada,75757.5757575758,5,1,1,10000,Not remote,5
+2598,United Kingdom,40000,3,0,1,500,Not remote,8
+2599,Germany,2688.17204301075,3,0,1,10,Not remote,9
+2600,United States,110000,18,0,0,1000,Not remote,7
+2601,United States,85000,19,0,1,20,Not remote,7
+2602,United Kingdom,46250,5,0,1,1000,Not remote,7
+2603,United Kingdom,75000,12,1,1,500,Not remote,9
+2604,United States,120000,10,1,1,100,Not remote,10
+2605,Canada,44696.9696969697,1,0,1,10000,Not remote,10
+2606,United States,70000,3,0,1,20,Remote,8
+2607,Canada,98484.8484848485,20,1,0,100,Not remote,6
+2608,United States,95000,17,0,1,500,Remote,7
+2609,United Kingdom,68750,20,0,0,10000,Not remote,9
+2610,United States,150000,20,0,1,5000,Not remote,9
+2611,United States,30000,14,1,1,10000,Not remote,8
+2612,India,24959.6241374248,14,1,1,10000,Not remote,7
+2613,United States,150000,8,0,1,1000,Not remote,8
+2614,India,10277.4922918808,5,0,0,1000,Not remote,7
+2615,India,9690.20701805902,0,0,0,20,Not remote,5
+2616,India,6827.19130817795,3,0,0,20,Not remote,7
+2617,United States,72000,6,0,1,500,Not remote,10
+2618,United States,140000,12,1,0,10000,Not remote,9
+2619,Germany,59139.7849462366,6,0,1,10,Not remote,10
+2620,United States,50000,2,0,1,1,Not remote,10
+2621,Germany,53763.4408602151,2,0,1,100,Not remote,8
+2622,United States,67500,1,0,1,1000,Not remote,4
+2623,India,5138.74614594039,2,0,0,20,Not remote,5
+2624,India,10277.4922918808,5,1,1,20,Not remote,10
+2625,Germany,64516.1290322581,8,0,1,10000,Not remote,9
+2626,Germany,45161.2903225806,4,1,1,20,Not remote,10
+2627,India,3171.3404786375,1,0,1,1,Not remote,0
+2628,India,7464.91489997014,1,0,1,10,Not remote,10
+2629,India,6606.95933049479,2,0,1,20,Not remote,5
+2630,India,17618.5582146528,1,1,1,20,Not remote,6
+2631,Germany,45161.2903225806,3,1,0,10,Not remote,8
+2632,Germany,64516.1290322581,0,1,1,20,Not remote,7
+2633,Germany,58064.5161290323,3,0,0,10,Not remote,9
+2634,India,17618.5582146528,6,0,0,100,Not remote,6
+2635,India,11011.598884158,0,0,1,10,Not remote,8
+2636,India,10277.4922918808,5,1,1,1,Not remote,9
+2637,Germany,51612.9032258064,2,0,0,100,Not remote,8
+2638,Germany,55913.9784946237,4,0,1,100,Not remote,8
+2639,Germany,38709.6774193548,2,0,1,20,Not remote,6
+2640,United Kingdom,31250,1,0,1,1,Not remote,6
+2641,Germany,59139.7849462366,14,0,0,100,Not remote,8
+2642,United Kingdom,35000,2,0,1,10000,Not remote,7
+2643,United Kingdom,31250,5,0,1,1,Not remote,8
+2644,United Kingdom,53750,2,1,1,20,Not remote,10
+2645,United Kingdom,43750,10,0,1,20,Not remote,8
+2646,United Kingdom,30000,20,0,0,1,Remote,8
+2647,India,6166.49537512847,1,0,0,1,Not remote,5
+2648,India,9690.20701805902,4,1,1,10,Remote,7
+2649,India,7047.42328586111,3,0,0,100,Not remote,6
+2650,United Kingdom,56250,18,0,0,20,Not remote,3
+2651,Germany,48387.0967741935,4,0,0,100,Not remote,8
+2652,United Kingdom,112500,15,1,0,100,Not remote,9
+2653,United Kingdom,56250,18,0,1,100,Not remote,7
+2654,United States,55000,9,0,0,500,Not remote,9
+2655,United Kingdom,48750,6,1,1,10,Not remote,9
+2656,Germany,41397.8494623656,3,0,1,10,Not remote,7
+2657,United Kingdom,50000,1,0,0,10000,Not remote,5
+2658,Germany,15535.4838709677,1,0,1,1,Not remote,7
+2659,Germany,51612.9032258064,2,0,1,20,Not remote,9
+2660,Germany,91397.8494623656,10,0,1,1,Not remote,8
+2661,United Kingdom,60000,6,0,0,20,Not remote,8
+2662,Canada,37878.7878787879,4,0,1,10,Not remote,6
+2663,Germany,57526.8817204301,6,1,0,20,Not remote,9
+2664,United States,114000,20,0,1,100,Not remote,9
+2665,United Kingdom,25000,8,0,0,1,Not remote,7
+2666,United States,70000,4,1,1,20,Not remote,10
+2667,Germany,43870.9677419355,1,0,1,10,Not remote,9
+2668,United States,42000,2,0,1,100,Not remote,7
+2669,United Kingdom,42500,5,0,1,100,Not remote,6
+2670,United Kingdom,43750,11,1,1,20,Not remote,6
+2671,Germany,48387.0967741935,2,1,1,100,Remote,9
+2672,United Kingdom,42500,1,1,1,20,Not remote,7
+2673,United Kingdom,43750,4,0,1,10,Not remote,6
+2674,Germany,53763.4408602151,2,0,0,20,Not remote,9
+2675,United Kingdom,100000,20,0,1,1000,Not remote,8
+2676,Germany,15053.7634408602,1,0,1,10000,Not remote,7
+2677,Canada,113636.363636364,17,0,0,10,Not remote,10
+2678,United Kingdom,46250,10,0,1,10,Not remote,5
+2679,United States,55000,1,0,1,1,Not remote,8
+2680,Canada,50424.2424242424,3,0,1,10,Not remote,10
+2681,United Kingdom,46250,16,1,1,1000,Not remote,3
+2682,United States,67000,3,0,1,20,Not remote,10
+2683,United Kingdom,40000,3,0,1,500,Not remote,6
+2684,United Kingdom,46250,2,0,1,10000,Not remote,9
+2685,United States,96000,9,0,1,10000,Not remote,6
+2686,United States,65000,3,0,1,20,Not remote,10
+2687,United States,70000,6,0,0,100,Not remote,8
+2688,United States,110000,8,1,1,100,Remote,5
+2689,United Kingdom,31250,2,0,1,1,Not remote,8
+2690,United Kingdom,43750,20,1,0,10,Remote,10
+2691,United States,110000,8,0,1,100,Remote,7
+2692,Germany,51612.9032258064,4,0,1,100,Not remote,9
+2693,Germany,56989.247311828,6,0,1,1,Not remote,9
+2694,Canada,32954.5454545455,3,0,0,10,Not remote,6
+2695,United States,120000,10,0,1,1000,Not remote,7
+2696,United States,90000,20,0,1,100,Not remote,8
+2697,United States,92000,6,0,1,20,Not remote,8
+2698,Canada,42045.4545454545,6,0,0,100,Not remote,8
+2699,United Kingdom,57500,16,1,1,10000,Not remote,7
+2700,United States,90000,4,0,1,10,Remote,7
+2701,United Kingdom,97500,20,0,0,10000,Not remote,7
+2702,United States,87000,5,0,1,10000,Remote,5
+2703,United States,70000,5,0,1,20,Not remote,4
+2704,United Kingdom,37500,3,1,1,20,Not remote,6
+2705,United States,135000,4,1,1,10000,Not remote,9
+2706,United States,95368,7,1,1,500,Not remote,8
+2707,United States,95306,19,1,1,1000,Not remote,8
+2708,Germany,46236.5591397849,6,1,1,1,Remote,10
+2709,United States,138000,14,1,0,10000,Not remote,7
+2710,United States,109100,10,0,1,10,Not remote,10
+2711,United States,70000,2,0,1,20,Not remote,9
+2712,Germany,51612.9032258064,5,0,1,500,Not remote,7
+2713,Canada,62121.2121212121,6,0,1,100,Not remote,8
+2714,United States,50500,3,0,1,10,Not remote,10
+2715,Germany,51612.9032258064,12,0,0,100,Not remote,7
+2716,United States,120000,13,0,1,20,Not remote,5
+2717,United States,133000,6,0,1,10000,Not remote,8
+2718,United Kingdom,33125,2,0,1,100,Not remote,8
+2719,United States,60000,1,0,1,100,Not remote,10
+2720,United States,107000,12,0,1,5000,Not remote,8
+2721,United States,75000,3,0,0,20,Remote,9
+2722,Canada,36363.6363636364,2,1,1,20,Not remote,7
+2723,United States,111000,15,0,1,500,Not remote,8
+2724,United States,110000,11,1,1,1,Remote,7
+2725,United Kingdom,47500,4,0,1,100,Not remote,10
+2726,United States,75000,5,0,1,1000,Remote,7
+2727,United States,93000,6,0,1,1000,Not remote,8
+2728,Germany,67741.935483871,7,0,0,10000,Not remote,6
+2729,Germany,53763.4408602151,5,0,1,100,Not remote,8
+2730,United States,75000,7,0,1,500,Remote,7
+2731,United Kingdom,41250,5,0,1,20,Not remote,7
+2732,United States,60000,3,0,1,10000,Not remote,6
+2733,United States,68000,1,0,1,10,Not remote,6
+2734,Germany,64516.1290322581,2,1,0,500,Not remote,7
+2735,Canada,62878.7878787879,19,0,1,100,Not remote,8
+2736,Canada,60606.0606060606,20,1,1,100,Not remote,8
+2737,United Kingdom,53750,3,0,1,100,Not remote,5
+2738,United Kingdom,58750,5,0,1,1000,Not remote,6
+2739,United States,71000,1,0,1,500,Not remote,8
+2740,United States,93000,9,0,1,10,Not remote,10
+2741,United States,80500,13,1,1,20,Not remote,7
+2742,United States,150000,20,1,1,1000,Not remote,9
+2743,United Kingdom,143750,19,1,1,10,Not remote,9
+2744,United States,52000,2,0,1,1000,Not remote,5
+2745,United States,90000,8,0,1,10,Not remote,7
+2746,United Kingdom,68750,5,0,1,10000,Not remote,8
+2747,Canada,57575.7575757576,3,0,1,100,Not remote,9
+2748,United Kingdom,56250,16,0,1,100,Not remote,9
+2749,Germany,86021.5053763441,10,1,1,10000,Not remote,9
+2750,Germany,51612.9032258064,20,0,1,1,Not remote,7
+2751,United States,30000,1,0,1,20,Not remote,6
+2752,Canada,87121.2121212121,7,0,0,5000,Not remote,7
+2753,Germany,43010.752688172,3,0,1,100,Not remote,8
+2754,Germany,53763.4408602151,3,0,1,100,Not remote,7
+2755,United States,90000,0,0,1,100,Not remote,8
+2756,United States,105000,2,1,1,10000,Remote,9
+2757,United States,100000,2,0,1,5000,Not remote,9
+2758,Germany,3440.86021505376,5,1,1,1000,Remote,6
+2759,United States,74000,16,0,0,10000,Not remote,6
+2760,United States,110000,3,0,0,500,Remote,8
+2761,United Kingdom,39000,20,0,1,100,Not remote,8
+2762,Canada,40151.5151515152,7,1,1,20,Not remote,7
+2763,United States,160000,20,1,1,10000,Remote,9
+2764,United States,47500,2,0,1,100,Not remote,8
+2765,United States,60000,1,0,1,1,Remote,7
+2766,Canada,53030.303030303,3,0,1,20,Not remote,7
+2767,United States,105000,5,1,1,1,Not remote,8
+2768,United States,125000,18,1,1,5000,Not remote,10
+2769,United States,60000,2,0,1,1000,Not remote,7
+2770,United States,80000,6,1,1,10000,Not remote,7
+2771,United States,72000,9,0,1,100,Not remote,10
+2772,United States,95000,4,0,1,10000,Not remote,9
+2773,Canada,43181.8181818182,1,0,1,100,Not remote,6
+2774,United States,140000,19,1,1,500,Not remote,9
+2775,United States,157000,7,1,1,10000,Not remote,10
+2776,United States,150000,6,1,1,10000,Not remote,9
+2777,United States,170000,15,0,0,20,Not remote,6
+2778,India,29364.2636910879,9,1,0,500,Not remote,9
+2779,Canada,35606.0606060606,2,0,1,20,Not remote,8
+2780,United States,88000,15,1,1,20,Remote,7
+2781,Canada,27651.5151515152,5,0,1,1,Not remote,4
+2782,United States,76000,7,1,1,10000,Not remote,9
+2783,India,27161.9439142563,3,1,1,20,Not remote,6
+2784,Canada,45454.5454545455,3,0,0,20,Not remote,9
+2785,United States,130000,6,0,1,100,Not remote,9
+2786,India,8809.27910732638,4,0,1,10,Not remote,8
+2787,United Kingdom,65000,13,0,1,1,Not remote,7
+2788,United States,73800,3,1,1,10000,Not remote,9
+2789,India,12626.6333871678,1,0,1,100,Not remote,8
+2790,United Kingdom,45000,16,1,1,10,Not remote,8
+2791,Germany,64516.1290322581,7,1,1,5000,Not remote,9
+2792,Germany,45161.2903225806,5,1,1,10000,Not remote,8
+2793,Germany,64516.1290322581,3,0,1,1,Not remote,8
+2794,United Kingdom,33750,1,0,1,1000,Not remote,7
+2795,United Kingdom,33125,1,0,0,20,Not remote,10
+2796,United Kingdom,45000,9,0,1,20,Not remote,6
+2797,United Kingdom,47500,7,0,1,1000,Not remote,6
+2798,India,1761.85582146528,0,0,1,10,Remote,3
+2799,United Kingdom,27500,3,1,0,10000,Not remote,7
+2800,United Kingdom,50000,3,0,1,1,Not remote,8
+2801,Germany,53763.4408602151,7,0,1,10,Not remote,8
+2802,United Kingdom,40000,3,0,1,100,Not remote,7
+2803,United Kingdom,43750,3,0,0,10000,Not remote,9
+2804,Germany,38709.6774193548,20,1,1,1,Not remote,7
+2805,United States,75000,4,0,1,20,Not remote,9
+2806,United Kingdom,40000,9,1,1,20,Not remote,10
+2807,India,10571.1349287917,4,0,1,20,Not remote,0
+2808,United States,80000,14,1,1,20,Not remote,9
+2809,United States,75000,20,0,0,20,Not remote,8
+2810,United States,142000,20,1,1,10000,Remote,8
+2811,United Kingdom,37500,4,0,0,20,Not remote,5
+2812,United Kingdom,58750,2,0,1,10000,Not remote,8
+2813,United States,116000,20,0,0,10000,Not remote,5
+2814,Germany,69892.4731182796,7,1,0,100,Not remote,7
+2815,India,25693.730729702,11,0,0,1000,Not remote,7
+2816,United Kingdom,52500,3,0,1,10000,Not remote,6
+2817,United Kingdom,31250,2,0,1,20,Not remote,9
+2818,United Kingdom,45000,3,1,0,1,Remote,10
+2819,Germany,66666.6666666667,7,0,1,1,Not remote,7
+2820,Canada,20681.8181818182,1,0,1,10,Not remote,8
+2821,United Kingdom,28750,1,0,1,20,Not remote,7
+2822,United States,127000,20,1,1,20,Remote,7
+2823,Germany,59139.7849462366,7,1,1,20,Not remote,7
+2824,Canada,41666.6666666667,5,0,1,1,Not remote,8
+2825,United States,36000,1,0,1,1,Remote,6
+2826,United Kingdom,30000,2,1,1,1,Not remote,9
+2827,United States,60000,6,1,1,10,Remote,9
+2828,United States,62500,3,0,1,100,Remote,9
+2829,India,5285.56746439583,2,1,1,10,Not remote,7
+2830,United States,101000,1,0,0,10000,Not remote,8
+2831,Canada,53030.303030303,1,1,1,20,Not remote,7
+2832,Germany,55913.9784946237,3,0,1,5000,Not remote,8
+2833,Germany,78279.5698924731,10,0,1,100,Not remote,7
+2834,United Kingdom,47500,2,1,1,500,Not remote,7
+2835,United States,97000,9,0,1,10000,Not remote,7
+2836,Germany,83870.9677419355,6,0,0,20,Not remote,10
+2837,India,14682.131845544,6,1,1,100,Not remote,8
+2838,United States,168000,16,0,0,10000,Not remote,8
+2839,Canada,53030.303030303,7,0,0,100,Not remote,8
+2840,Canada,70075.7575757576,7,1,1,20,Not remote,8
+2841,Germany,48387.0967741935,2,0,1,100,Not remote,8
+2842,Germany,29677.4193548387,3,1,1,20,Not remote,7
+2843,United Kingdom,45000,12,1,1,10,Not remote,3
+2844,Germany,58064.5161290323,8,1,1,100,Not remote,6
+2845,United Kingdom,61250,20,0,1,100,Remote,9
+2846,United States,120000,5,1,1,10,Not remote,7
+2847,United States,130000,8,0,1,5000,Not remote,7
+2848,India,27896.0505065335,6,1,1,10000,Not remote,6
+2849,United Kingdom,64375,6,0,0,1000,Not remote,6
+2850,United States,136500,2,0,1,20,Not remote,7
+2851,United States,82000,9,0,0,10000,Not remote,3
+2852,Germany,81720.4301075269,20,1,1,100,Not remote,9
+2853,United Kingdom,51250,20,1,1,1000,Not remote,9
+2854,Germany,64516.1290322581,3,1,1,100,Not remote,8
+2855,United Kingdom,38750,2,0,1,20,Remote,9
+2856,United States,71000,3,0,1,500,Not remote,9
+2857,Canada,53030.303030303,6,0,0,100,Not remote,8
+2858,United Kingdom,68750,6,0,1,500,Not remote,6
+2859,United Kingdom,51875,2,0,0,20,Not remote,8
+2860,United States,120000,6,0,0,10000,Not remote,10
+2861,United States,117000,2,0,1,10000,Not remote,7
+2862,United States,160000,8,0,1,1000,Not remote,4
+2863,United Kingdom,35000,2,0,1,20,Not remote,8
+2864,United States,90000,2,0,1,100,Not remote,8
+2865,United States,115000,18,0,1,500,Not remote,10
+2866,United States,95000,6,1,1,500,Not remote,8
+2867,United States,95000,20,0,1,100,Not remote,8
+2868,United Kingdom,26250,2,0,1,100,Not remote,8
+2869,United States,100568,11,0,1,10000,Not remote,7
+2870,United States,105000,3,0,1,100,Not remote,7
+2871,United States,120000,20,0,1,10000,Not remote,5
+2872,United States,55000,2,0,1,20,Not remote,10
+2873,United States,150000,10,1,1,10000,Not remote,9
+2874,India,35237.1164293055,15,0,1,100,Not remote,9
+2875,United States,89000,20,0,0,10000,Remote,9
+2876,United States,105000,5,0,1,20,Not remote,10
+2877,Canada,51893.9393939394,9,1,1,20,Not remote,7
+2878,United States,122088,20,0,0,20,Remote,9
+2879,India,35237.1164293055,15,0,0,20,Not remote,9
+2880,United States,118000,9,0,1,10000,Not remote,8
+2881,India,4052.26838937014,2,1,0,20,Not remote,5
+2882,United States,112000,5,0,1,500,Not remote,9
+2883,Canada,49242.4242424242,1,0,1,10,Not remote,8
+2884,United States,57000,2,0,0,100,Remote,10
+2885,United States,93000,11,1,1,100,Remote,8
+2886,United States,120000,3,0,1,100,Not remote,10
+2887,India,12479.8120687124,5,1,1,20,Not remote,10
+2888,India,19086.7713992072,5,1,0,1000,Not remote,8
+2889,Germany,40860.2150537634,1,0,1,20,Not remote,10
+2890,India,10277.4922918808,4,0,1,500,Not remote,10
+2891,Germany,45161.2903225806,3,0,1,20,Not remote,8
+2892,Germany,53763.4408602151,2,0,1,10000,Not remote,10
+2893,India,6606.95933049479,2,0,1,1000,Not remote,7
+2894,United Kingdom,156250,7,1,0,10000,Not remote,8
+2895,United Kingdom,41250,4,0,1,20,Not remote,8
+2896,United Kingdom,71875,15,0,1,10000,Not remote,9
+2897,Canada,150000,4,0,1,100,Not remote,9
+2898,Germany,20645.1612903226,4,1,1,10,Not remote,6
+2899,United Kingdom,52500,12,0,1,100,Not remote,7
+2900,United Kingdom,68750,4,0,1,500,Not remote,7
+2901,United Kingdom,62500,1,0,1,20,Not remote,9
+2902,India,14682.131845544,1,0,0,500,Not remote,6
+2903,Germany,107526.88172043,14,1,0,10,Not remote,9
+2904,United States,108500,8,0,1,10000,Not remote,9
+2905,India,4404.63955366319,1,1,1,20,Remote,5
+2906,Canada,41666.6666666667,9,0,1,500,Not remote,6
+2907,United Kingdom,42500,4,1,1,1000,Not remote,9
+2908,Canada,32196.9696969697,2,1,1,500,Not remote,9
+2909,Germany,72043.0107526882,9,1,0,500,Not remote,6
+2910,Canada,60606.0606060606,3,1,1,10,Not remote,9
+2911,United States,86400,11,0,0,100,Not remote,8
+2912,United States,45000,8,1,1,1000,Not remote,8
+2913,United Kingdom,103125,15,0,1,100,Not remote,7
+2914,Germany,51612.9032258064,2,1,1,1000,Not remote,7
+2915,United Kingdom,60000,5,1,1,20,Not remote,7
+2916,United States,70000,1,1,1,20,Not remote,8
+2917,United States,65000,6,1,0,1000,Not remote,7
+2918,United States,150000,5,1,1,10000,Not remote,8
+2919,Germany,43010.752688172,20,0,0,100,Not remote,9
+2920,United States,46000,2,1,1,20,Not remote,7
+2921,United States,195000,12,0,0,1000,Not remote,7
+2922,Canada,49242.4242424242,6,0,1,5000,Not remote,8
+2923,Germany,45161.2903225806,10,0,1,20,Not remote,5
+2924,Germany,75268.8172043011,20,1,1,100,Remote,10
+2925,United States,97000,10,0,1,10000,Not remote,7
+2926,United Kingdom,50000,2,0,1,100,Not remote,8
+2927,United Kingdom,43750,5,1,1,10,Remote,7
+2928,United States,95500,5,0,0,10000,Remote,9
+2929,United Kingdom,54375,2,0,1,10000,Not remote,9
+2930,United Kingdom,75000,9,0,1,100,Not remote,8
+2931,United States,112750,5,1,1,1000,Not remote,7
+2932,Germany,83870.9677419355,20,1,1,10000,Not remote,10
+2933,United Kingdom,42000,1,0,0,10000,Not remote,10
+2934,United Kingdom,28750,1,0,1,20,Not remote,10
+2935,United Kingdom,43750,4,0,0,20,Not remote,7
+2936,United States,115000,10,0,1,100,Remote,8
+2937,United States,102000,1,0,1,10000,Remote,10
+2938,United Kingdom,30000,1,0,1,100,Not remote,7
+2939,United States,130000,20,1,1,20,Not remote,8
+2940,United Kingdom,43750,5,1,1,100,Not remote,7
+2941,United States,100000,4,0,0,100,Not remote,9
+2942,United Kingdom,48125,6,0,1,20,Not remote,0
+2943,Canada,83333.3333333333,10,1,1,10,Not remote,9
+2944,Canada,78030.303030303,5,1,1,100,Not remote,8
+2945,Canada,53030.303030303,5,0,1,100,Not remote,7
+2946,United States,155000,11,1,1,20,Not remote,8
+2947,United States,127000,3,0,1,10000,Not remote,7
+2948,United States,110000,14,1,1,100,Not remote,10
+2949,United States,125000,20,1,0,100,Not remote,5
+2950,United States,109000,2,1,1,10000,Not remote,9
+2951,United States,160000,20,0,1,1000,Not remote,7
+2952,United States,40000,3,1,1,10,Not remote,10
+2953,United Kingdom,48750,20,0,1,100,Not remote,8
+2954,United States,135000,20,0,1,1000,Not remote,7
+2955,United States,83000,1,0,0,10000,Not remote,8
+2956,United States,100000,2,0,1,10000,Not remote,7
+2957,Canada,62121.2121212121,16,0,0,1000,Not remote,7
+2958,Canada,45454.5454545455,3,1,1,5000,Not remote,7
+2959,United States,154000,12,1,1,10000,Not remote,9
+2960,Germany,32258.064516129,5,0,1,10,Not remote,6
+2961,Canada,54545.4545454545,3,0,0,1,Not remote,8
+2962,United States,110000,20,1,0,1000,Not remote,5
+2963,United States,85000,2,1,0,1000,Not remote,7
+2964,United States,85000,3,0,1,100,Not remote,5
+2965,United States,65000,6,0,1,5000,Not remote,8
+2966,Canada,50757.5757575758,2,0,1,100,Not remote,9
+2967,India,12479.8120687124,3,1,1,10,Not remote,6
+2968,United States,65000,4,0,1,10,Not remote,8
+2969,Germany,48387.0967741935,3,0,1,100,Not remote,8
+2970,India,8062.10809196775,3,1,1,20,Not remote,7
+2971,India,5872.85273821759,2,0,0,20,Not remote,6
+2972,United Kingdom,43750,2,0,1,100,Not remote,8
+2973,United States,115000,4,1,1,20,Not remote,8
+2974,Germany,64516.1290322581,8,0,1,500,Not remote,10
+2975,United Kingdom,28750,3,0,1,10,Not remote,8
+2976,Germany,51612.9032258064,4,1,1,20,Not remote,6
+2977,United Kingdom,40625,2,0,1,500,Remote,6
+2978,Germany,4731.18279569892,6,0,0,20,Not remote,6
+2979,United States,55000,1,0,0,20,Remote,8
+2980,India,11745.7054764352,1,0,0,20,Not remote,1
+2981,Canada,45454.5454545455,3,0,1,10,Not remote,10
+2982,India,19380.414036118,3,0,0,10000,Not remote,7
+2983,India,11745.7054764352,3,1,1,100,Not remote,4
+2984,India,11745.7054764352,0,0,1,500,Not remote,7
+2985,United Kingdom,41250,8,1,1,500,Not remote,7
+2986,India,23491.4109528704,6,0,0,5000,Not remote,8
+2987,India,12039.3481133461,4,0,0,10000,Not remote,6
+2988,India,2716.19439142563,4,1,0,20,Not remote,8
+2989,India,13948.0252532668,2,0,1,100,Not remote,8
+2990,Germany,46451.6129032258,5,1,1,10000,Not remote,8
+2991,Germany,51612.9032258064,5,0,0,1,Not remote,7
+2992,India,22023.197768316,5,1,1,1000,Not remote,8
+2993,United Kingdom,41250,11,0,0,100,Not remote,8
+2994,Germany,59139.7849462366,6,0,1,100,Not remote,5
+2995,India,5285.56746439583,3,1,1,20,Not remote,6
+2996,United Kingdom,68750,9,0,1,1000,Not remote,9
+2997,United States,108000,20,1,0,10,Remote,10
+2998,Germany,40322.5806451613,2,0,1,20,Not remote,10
+2999,India,13213.9186609896,7,0,1,100,Not remote,3
+3000,United Kingdom,56625,5,0,1,500,Not remote,7
